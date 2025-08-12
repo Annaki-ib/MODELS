@@ -1,0 +1,2782 @@
+[
+  {
+    "text": "Beginning at the mouth of the Danube , the filmmakers David Barison and Daniel Ross journey upstream toward the river 's source in Germany .",
+    "id": "train_64",
+    "obj_char_span_starts": [
+      30
+    ],
+    "obj_char_span_ends": [
+      36
+    ],
+    "subj_char_span_starts": [
+      131
+    ],
+    "subj_char_span_ends": [
+      138
+    ],
+    "entity_char_span_starts": [
+      131,
+      30
+    ],
+    "entity_char_span_ends": [
+      138,
+      36
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Danube"
+    ],
+    "raw_subjects": [
+      "Germany"
+    ],
+    "raw_entities": [
+      "Germany",
+      "Danube"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Germany",
+        "object": "Danube",
+        "subj_char_span": [
+          131,
+          138
+        ],
+        "obj_char_span": [
+          30,
+          36
+        ],
+        "subj_tok_span": [
+          26,
+          27
+        ],
+        "obj_tok_span": [
+          7,
+          8
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Germany",
+        "char_span": [
+          131,
+          138
+        ],
+        "tok_span": [
+          26,
+          27
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Danube",
+        "char_span": [
+          30,
+          36
+        ],
+        "tok_span": [
+          7,
+          8
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "I came over from Calabria , Italy , when I was 11 , and right away I began cutting hair here , '' said Mr. Trunzo , who is 88 .",
+    "id": "train_29",
+    "obj_char_span_starts": [
+      28,
+      17,
+      17
+    ],
+    "obj_char_span_ends": [
+      33,
+      25,
+      25
+    ],
+    "subj_char_span_starts": [
+      17,
+      28,
+      28
+    ],
+    "subj_char_span_ends": [
+      25,
+      33,
+      33
+    ],
+    "entity_char_span_starts": [
+      17,
+      28,
+      28,
+      17,
+      28,
+      17
+    ],
+    "entity_char_span_ends": [
+      25,
+      33,
+      33,
+      25,
+      33,
+      25
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/country/administrative_divisions",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Italy",
+      "Calabria",
+      "Calabria"
+    ],
+    "raw_subjects": [
+      "Calabria",
+      "Italy",
+      "Italy"
+    ],
+    "raw_entities": [
+      "Calabria",
+      "Italy",
+      "Italy",
+      "Calabria",
+      "Italy",
+      "Calabria"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/administrative_division/country",
+        "subject": "Calabria",
+        "object": "Italy",
+        "subj_char_span": [
+          17,
+          25
+        ],
+        "obj_char_span": [
+          28,
+          33
+        ],
+        "subj_tok_span": [
+          5,
+          8
+        ],
+        "obj_tok_span": [
+          9,
+          10
+        ]
+      },
+      {
+        "predicate": "/location/country/administrative_divisions",
+        "subject": "Italy",
+        "object": "Calabria",
+        "subj_char_span": [
+          28,
+          33
+        ],
+        "obj_char_span": [
+          17,
+          25
+        ],
+        "subj_tok_span": [
+          9,
+          10
+        ],
+        "obj_tok_span": [
+          5,
+          8
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Italy",
+        "object": "Calabria",
+        "subj_char_span": [
+          28,
+          33
+        ],
+        "obj_char_span": [
+          17,
+          25
+        ],
+        "subj_tok_span": [
+          9,
+          10
+        ],
+        "obj_tok_span": [
+          5,
+          8
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Calabria",
+        "char_span": [
+          17,
+          25
+        ],
+        "tok_span": [
+          5,
+          8
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Italy",
+        "char_span": [
+          28,
+          33
+        ],
+        "tok_span": [
+          9,
+          10
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Italy",
+        "char_span": [
+          28,
+          33
+        ],
+        "tok_span": [
+          9,
+          10
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Calabria",
+        "char_span": [
+          17,
+          25
+        ],
+        "tok_span": [
+          5,
+          8
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Italy",
+        "char_span": [
+          28,
+          33
+        ],
+        "tok_span": [
+          9,
+          10
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Calabria",
+        "char_span": [
+          17,
+          25
+        ],
+        "tok_span": [
+          5,
+          8
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "He 's 91 , I 'm 84 , '' said Pancho Segura , the venerable teaching professional , whom Mr. Mulloy recruited to the University of Miami 's tennis team from Ecuador more than six decades ago . ''",
+    "id": "train_27",
+    "obj_char_span_starts": [
+      156
+    ],
+    "obj_char_span_ends": [
+      163
+    ],
+    "subj_char_span_starts": [
+      36
+    ],
+    "subj_char_span_ends": [
+      42
+    ],
+    "entity_char_span_starts": [
+      36,
+      156
+    ],
+    "entity_char_span_ends": [
+      42,
+      163
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Ecuador"
+    ],
+    "raw_subjects": [
+      "Segura"
+    ],
+    "raw_entities": [
+      "Segura",
+      "Ecuador"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/people/person/nationality",
+        "subject": "Segura",
+        "object": "Ecuador",
+        "subj_char_span": [
+          36,
+          42
+        ],
+        "obj_char_span": [
+          156,
+          163
+        ],
+        "subj_tok_span": [
+          16,
+          19
+        ],
+        "obj_tok_span": [
+          44,
+          45
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Segura",
+        "char_span": [
+          36,
+          42
+        ],
+        "tok_span": [
+          16,
+          19
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Ecuador",
+        "char_span": [
+          156,
+          163
+        ],
+        "tok_span": [
+          44,
+          45
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Born in Canton , Ohio , on Feb. 27 , 1914 , Mr. Bolender settled in New York City in 1936 .",
+    "id": "train_88",
+    "obj_char_span_starts": [
+      8
+    ],
+    "obj_char_span_ends": [
+      14
+    ],
+    "subj_char_span_starts": [
+      17
+    ],
+    "subj_char_span_ends": [
+      21
+    ],
+    "entity_char_span_starts": [
+      17,
+      8
+    ],
+    "entity_char_span_ends": [
+      21,
+      14
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Canton"
+    ],
+    "raw_subjects": [
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Ohio",
+      "Canton"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Ohio",
+        "object": "Canton",
+        "subj_char_span": [
+          17,
+          21
+        ],
+        "obj_char_span": [
+          8,
+          14
+        ],
+        "subj_tok_span": [
+          5,
+          6
+        ],
+        "obj_tok_span": [
+          3,
+          4
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Ohio",
+        "char_span": [
+          17,
+          21
+        ],
+        "tok_span": [
+          5,
+          6
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Canton",
+        "char_span": [
+          8,
+          14
+        ],
+        "tok_span": [
+          3,
+          4
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "I do n't make this recipe in front of people , '' said Sean Williams , an actor from Astoria , Queens , whose guacamole includes bottled salsa , sour cream and green onions .",
+    "id": "train_97",
+    "obj_char_span_starts": [
+      85,
+      95
+    ],
+    "obj_char_span_ends": [
+      92,
+      101
+    ],
+    "subj_char_span_starts": [
+      95,
+      85
+    ],
+    "subj_char_span_ends": [
+      101,
+      92
+    ],
+    "entity_char_span_starts": [
+      95,
+      85,
+      85,
+      95
+    ],
+    "entity_char_span_ends": [
+      101,
+      92,
+      92,
+      101
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/neighborhood/neighborhood_of"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Astoria",
+      "Queens"
+    ],
+    "raw_subjects": [
+      "Queens",
+      "Astoria"
+    ],
+    "raw_entities": [
+      "Queens",
+      "Astoria",
+      "Astoria",
+      "Queens"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Queens",
+        "object": "Astoria",
+        "subj_char_span": [
+          95,
+          101
+        ],
+        "obj_char_span": [
+          85,
+          92
+        ],
+        "subj_tok_span": [
+          26,
+          27
+        ],
+        "obj_tok_span": [
+          23,
+          25
+        ]
+      },
+      {
+        "predicate": "/location/neighborhood/neighborhood_of",
+        "subject": "Astoria",
+        "object": "Queens",
+        "subj_char_span": [
+          85,
+          92
+        ],
+        "obj_char_span": [
+          95,
+          101
+        ],
+        "subj_tok_span": [
+          23,
+          25
+        ],
+        "obj_tok_span": [
+          26,
+          27
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Queens",
+        "char_span": [
+          95,
+          101
+        ],
+        "tok_span": [
+          26,
+          27
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Astoria",
+        "char_span": [
+          85,
+          92
+        ],
+        "tok_span": [
+          23,
+          25
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Astoria",
+        "char_span": [
+          85,
+          92
+        ],
+        "tok_span": [
+          23,
+          25
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Queens",
+        "char_span": [
+          95,
+          101
+        ],
+        "tok_span": [
+          26,
+          27
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "The United States ambassador to Mexico , Tony Garza , said in a statement that he had directed the American Consulate in Nuevo Laredo to reopen on Monday , a week after he ordered it closed because of '' rampant violence '' along the northern border , including a gun battle in the city in which warring drug gangs used bazookas .",
+    "id": "train_4",
+    "obj_char_span_starts": [
+      127
+    ],
+    "obj_char_span_ends": [
+      133
+    ],
+    "subj_char_span_starts": [
+      32
+    ],
+    "subj_char_span_ends": [
+      38
+    ],
+    "entity_char_span_starts": [
+      32,
+      127
+    ],
+    "entity_char_span_ends": [
+      38,
+      133
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Laredo"
+    ],
+    "raw_subjects": [
+      "Mexico"
+    ],
+    "raw_entities": [
+      "Mexico",
+      "Laredo"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Mexico",
+        "object": "Laredo",
+        "subj_char_span": [
+          32,
+          38
+        ],
+        "obj_char_span": [
+          127,
+          133
+        ],
+        "subj_tok_span": [
+          6,
+          7
+        ],
+        "obj_tok_span": [
+          27,
+          29
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Mexico",
+        "char_span": [
+          32,
+          38
+        ],
+        "tok_span": [
+          6,
+          7
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Laredo",
+        "char_span": [
+          127,
+          133
+        ],
+        "tok_span": [
+          27,
+          29
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Rupert Murdoch and John C. Malone , who have wrangled for two years over Mr. Malone 's challenge to Mr. Murdoch 's control of the News Corporation , have made peace .",
+    "id": "train_54",
+    "obj_char_span_starts": [
+      135,
+      135,
+      7,
+      104
+    ],
+    "obj_char_span_ends": [
+      146,
+      146,
+      14,
+      111
+    ],
+    "subj_char_span_starts": [
+      7,
+      104,
+      135,
+      135
+    ],
+    "subj_char_span_ends": [
+      14,
+      111,
+      146,
+      146
+    ],
+    "entity_char_span_starts": [
+      7,
+      135,
+      104,
+      135,
+      135,
+      7,
+      135,
+      104
+    ],
+    "entity_char_span_ends": [
+      14,
+      146,
+      111,
+      146,
+      146,
+      14,
+      146,
+      111
+    ],
+    "predicates": [
+      "/business/person/company",
+      "/business/person/company",
+      "/business/company/founders",
+      "/business/company/founders"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Corporation",
+      "Corporation",
+      "Murdoch",
+      "Murdoch"
+    ],
+    "raw_subjects": [
+      "Murdoch",
+      "Murdoch",
+      "Corporation",
+      "Corporation"
+    ],
+    "raw_entities": [
+      "Murdoch",
+      "Corporation",
+      "Murdoch",
+      "Corporation",
+      "Corporation",
+      "Murdoch",
+      "Corporation",
+      "Murdoch"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/business/person/company",
+        "subject": "Murdoch",
+        "object": "Corporation",
+        "subj_char_span": [
+          7,
+          14
+        ],
+        "obj_char_span": [
+          135,
+          146
+        ],
+        "subj_tok_span": [
+          2,
+          3
+        ],
+        "obj_tok_span": [
+          34,
+          35
+        ]
+      },
+      {
+        "predicate": "/business/person/company",
+        "subject": "Murdoch",
+        "object": "Corporation",
+        "subj_char_span": [
+          104,
+          111
+        ],
+        "obj_char_span": [
+          135,
+          146
+        ],
+        "subj_tok_span": [
+          27,
+          28
+        ],
+        "obj_tok_span": [
+          34,
+          35
+        ]
+      },
+      {
+        "predicate": "/business/company/founders",
+        "subject": "Corporation",
+        "object": "Murdoch",
+        "subj_char_span": [
+          135,
+          146
+        ],
+        "obj_char_span": [
+          7,
+          14
+        ],
+        "subj_tok_span": [
+          34,
+          35
+        ],
+        "obj_tok_span": [
+          2,
+          3
+        ]
+      },
+      {
+        "predicate": "/business/company/founders",
+        "subject": "Corporation",
+        "object": "Murdoch",
+        "subj_char_span": [
+          135,
+          146
+        ],
+        "obj_char_span": [
+          104,
+          111
+        ],
+        "subj_tok_span": [
+          34,
+          35
+        ],
+        "obj_tok_span": [
+          27,
+          28
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Murdoch",
+        "char_span": [
+          7,
+          14
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Corporation",
+        "char_span": [
+          135,
+          146
+        ],
+        "tok_span": [
+          34,
+          35
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Murdoch",
+        "char_span": [
+          104,
+          111
+        ],
+        "tok_span": [
+          27,
+          28
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Corporation",
+        "char_span": [
+          135,
+          146
+        ],
+        "tok_span": [
+          34,
+          35
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Corporation",
+        "char_span": [
+          135,
+          146
+        ],
+        "tok_span": [
+          34,
+          35
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Murdoch",
+        "char_span": [
+          7,
+          14
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Corporation",
+        "char_span": [
+          135,
+          146
+        ],
+        "tok_span": [
+          34,
+          35
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Murdoch",
+        "char_span": [
+          104,
+          111
+        ],
+        "tok_span": [
+          27,
+          28
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "A lot of us are transplanted Canadians like me , '' said Karen Tait , 56 , a native of Edmonton , Alberta , who is president of the Coyotes Curling Club in Scottsdale .",
+    "id": "train_75",
+    "obj_char_span_starts": [
+      87,
+      87
+    ],
+    "obj_char_span_ends": [
+      95,
+      95
+    ],
+    "subj_char_span_starts": [
+      98,
+      98
+    ],
+    "subj_char_span_ends": [
+      105,
+      105
+    ],
+    "entity_char_span_starts": [
+      98,
+      87,
+      98,
+      87
+    ],
+    "entity_char_span_ends": [
+      105,
+      95,
+      105,
+      95
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Edmonton",
+      "Edmonton"
+    ],
+    "raw_subjects": [
+      "Alberta",
+      "Alberta"
+    ],
+    "raw_entities": [
+      "Alberta",
+      "Edmonton",
+      "Alberta",
+      "Edmonton"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/country/capital",
+        "subject": "Alberta",
+        "object": "Edmonton",
+        "subj_char_span": [
+          98,
+          105
+        ],
+        "obj_char_span": [
+          87,
+          95
+        ],
+        "subj_tok_span": [
+          26,
+          27
+        ],
+        "obj_tok_span": [
+          24,
+          25
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Alberta",
+        "object": "Edmonton",
+        "subj_char_span": [
+          98,
+          105
+        ],
+        "obj_char_span": [
+          87,
+          95
+        ],
+        "subj_tok_span": [
+          26,
+          27
+        ],
+        "obj_tok_span": [
+          24,
+          25
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Alberta",
+        "char_span": [
+          98,
+          105
+        ],
+        "tok_span": [
+          26,
+          27
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Edmonton",
+        "char_span": [
+          87,
+          95
+        ],
+        "tok_span": [
+          24,
+          25
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Alberta",
+        "char_span": [
+          98,
+          105
+        ],
+        "tok_span": [
+          26,
+          27
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Edmonton",
+        "char_span": [
+          87,
+          95
+        ],
+        "tok_span": [
+          24,
+          25
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "It is my sincere hope that we will reignite our united purpose , '' Senator Mitch McConnell of Kentucky , the Republican whip , said on the Senate floor before the ceremony .",
+    "id": "train_11",
+    "obj_char_span_starts": [
+      95
+    ],
+    "obj_char_span_ends": [
+      103
+    ],
+    "subj_char_span_starts": [
+      82
+    ],
+    "subj_char_span_ends": [
+      91
+    ],
+    "entity_char_span_starts": [
+      82,
+      95
+    ],
+    "entity_char_span_ends": [
+      91,
+      103
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Kentucky"
+    ],
+    "raw_subjects": [
+      "McConnell"
+    ],
+    "raw_entities": [
+      "McConnell",
+      "Kentucky"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/people/person/place_lived",
+        "subject": "McConnell",
+        "object": "Kentucky",
+        "subj_char_span": [
+          82,
+          91
+        ],
+        "obj_char_span": [
+          95,
+          103
+        ],
+        "subj_tok_span": [
+          19,
+          23
+        ],
+        "obj_tok_span": [
+          24,
+          25
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "McConnell",
+        "char_span": [
+          82,
+          91
+        ],
+        "tok_span": [
+          19,
+          23
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Kentucky",
+        "char_span": [
+          95,
+          103
+        ],
+        "tok_span": [
+          24,
+          25
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "South Africa , and the rest of Africa . ''",
+    "id": "train_69",
+    "obj_char_span_starts": [
+      6,
+      31,
+      6,
+      31
+    ],
+    "obj_char_span_ends": [
+      12,
+      37,
+      12,
+      37
+    ],
+    "subj_char_span_starts": [
+      6,
+      6,
+      31,
+      31
+    ],
+    "subj_char_span_ends": [
+      12,
+      12,
+      37,
+      37
+    ],
+    "entity_char_span_starts": [
+      6,
+      6,
+      6,
+      31,
+      31,
+      6,
+      31,
+      31
+    ],
+    "entity_char_span_ends": [
+      12,
+      12,
+      12,
+      37,
+      37,
+      12,
+      37,
+      37
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "raw_subjects": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Africa",
+        "object": "Africa",
+        "subj_char_span": [
+          6,
+          12
+        ],
+        "obj_char_span": [
+          6,
+          12
+        ],
+        "subj_tok_span": [
+          2,
+          3
+        ],
+        "obj_tok_span": [
+          2,
+          3
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Africa",
+        "object": "Africa",
+        "subj_char_span": [
+          6,
+          12
+        ],
+        "obj_char_span": [
+          31,
+          37
+        ],
+        "subj_tok_span": [
+          2,
+          3
+        ],
+        "obj_tok_span": [
+          8,
+          9
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Africa",
+        "object": "Africa",
+        "subj_char_span": [
+          31,
+          37
+        ],
+        "obj_char_span": [
+          6,
+          12
+        ],
+        "subj_tok_span": [
+          8,
+          9
+        ],
+        "obj_tok_span": [
+          2,
+          3
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Africa",
+        "object": "Africa",
+        "subj_char_span": [
+          31,
+          37
+        ],
+        "obj_char_span": [
+          31,
+          37
+        ],
+        "subj_tok_span": [
+          8,
+          9
+        ],
+        "obj_tok_span": [
+          8,
+          9
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Africa",
+        "char_span": [
+          6,
+          12
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          6,
+          12
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          6,
+          12
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          31,
+          37
+        ],
+        "tok_span": [
+          8,
+          9
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          31,
+          37
+        ],
+        "tok_span": [
+          8,
+          9
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          6,
+          12
+        ],
+        "tok_span": [
+          2,
+          3
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          31,
+          37
+        ],
+        "tok_span": [
+          8,
+          9
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Africa",
+        "char_span": [
+          31,
+          37
+        ],
+        "tok_span": [
+          8,
+          9
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Last month , Mr. Yuen was in Mountain View , in the heart of Silicon Valley , demonstrating his product to venture capitalists and other tech entrepreneurs .",
+    "id": "train_86",
+    "obj_char_span_starts": [
+      38
+    ],
+    "obj_char_span_ends": [
+      42
+    ],
+    "subj_char_span_starts": [
+      69
+    ],
+    "subj_char_span_ends": [
+      75
+    ],
+    "entity_char_span_starts": [
+      69,
+      38
+    ],
+    "entity_char_span_ends": [
+      75,
+      42
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "View"
+    ],
+    "raw_subjects": [
+      "Valley"
+    ],
+    "raw_entities": [
+      "Valley",
+      "View"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Valley",
+        "object": "View",
+        "subj_char_span": [
+          69,
+          75
+        ],
+        "obj_char_span": [
+          38,
+          42
+        ],
+        "subj_tok_span": [
+          18,
+          19
+        ],
+        "obj_tok_span": [
+          11,
+          12
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Valley",
+        "char_span": [
+          69,
+          75
+        ],
+        "tok_span": [
+          18,
+          19
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "View",
+        "char_span": [
+          38,
+          42
+        ],
+        "tok_span": [
+          11,
+          12
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "And yet , despite the success of its exhibitions , the institute remains something of a strange hybrid : located southeast of Notre-Dame , in a striking building designed by Jean Nouvel , it has operated since 1987 as a partnership between France and 22 Arab countries .",
+    "id": "train_13",
+    "obj_char_span_starts": [
+      240
+    ],
+    "obj_char_span_ends": [
+      246
+    ],
+    "subj_char_span_starts": [
+      179
+    ],
+    "subj_char_span_ends": [
+      185
+    ],
+    "entity_char_span_starts": [
+      179,
+      240
+    ],
+    "entity_char_span_ends": [
+      185,
+      246
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "France"
+    ],
+    "raw_subjects": [
+      "Nouvel"
+    ],
+    "raw_entities": [
+      "Nouvel",
+      "France"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/people/person/nationality",
+        "subject": "Nouvel",
+        "object": "France",
+        "subj_char_span": [
+          179,
+          185
+        ],
+        "obj_char_span": [
+          240,
+          246
+        ],
+        "subj_tok_span": [
+          34,
+          37
+        ],
+        "obj_tok_span": [
+          47,
+          48
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Nouvel",
+        "char_span": [
+          179,
+          185
+        ],
+        "tok_span": [
+          34,
+          37
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "France",
+        "char_span": [
+          240,
+          246
+        ],
+        "tok_span": [
+          47,
+          48
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Having read so many drooling press notices about this European youth guru , I figured I 'd drop in on Dr. Sebagh 's practice at 25 Wimpole Street -- the same street where the medical establishment held thick-headed sway in Virginia Woolf 's day -- when I was in London some months ago .",
+    "id": "train_17",
+    "obj_char_span_starts": [
+      262
+    ],
+    "obj_char_span_ends": [
+      268
+    ],
+    "subj_char_span_starts": [
+      232
+    ],
+    "subj_char_span_ends": [
+      237
+    ],
+    "entity_char_span_starts": [
+      232,
+      262
+    ],
+    "entity_char_span_ends": [
+      237,
+      268
+    ],
+    "predicates": [
+      "/people/person/place_of_birth"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "London"
+    ],
+    "raw_subjects": [
+      "Woolf"
+    ],
+    "raw_entities": [
+      "Woolf",
+      "London"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/people/person/place_of_birth",
+        "subject": "Woolf",
+        "object": "London",
+        "subj_char_span": [
+          232,
+          237
+        ],
+        "obj_char_span": [
+          262,
+          268
+        ],
+        "subj_tok_span": [
+          55,
+          58
+        ],
+        "obj_tok_span": [
+          67,
+          68
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Woolf",
+        "char_span": [
+          232,
+          237
+        ],
+        "tok_span": [
+          55,
+          58
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "London",
+        "char_span": [
+          262,
+          268
+        ],
+        "tok_span": [
+          67,
+          68
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "The report said that the commercial would also be staged in Hamburg , Germany ; New York ; and Pittsburgh .",
+    "id": "train_28",
+    "obj_char_span_starts": [
+      70,
+      60,
+      60
+    ],
+    "obj_char_span_ends": [
+      77,
+      67,
+      67
+    ],
+    "subj_char_span_starts": [
+      60,
+      70,
+      70
+    ],
+    "subj_char_span_ends": [
+      67,
+      77,
+      77
+    ],
+    "entity_char_span_starts": [
+      60,
+      70,
+      70,
+      60,
+      70,
+      60
+    ],
+    "entity_char_span_ends": [
+      67,
+      77,
+      77,
+      67,
+      77,
+      67
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/location/contains",
+      "/location/country/administrative_divisions"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Germany",
+      "Hamburg",
+      "Hamburg"
+    ],
+    "raw_subjects": [
+      "Hamburg",
+      "Germany",
+      "Germany"
+    ],
+    "raw_entities": [
+      "Hamburg",
+      "Germany",
+      "Germany",
+      "Hamburg",
+      "Germany",
+      "Hamburg"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/administrative_division/country",
+        "subject": "Hamburg",
+        "object": "Germany",
+        "subj_char_span": [
+          60,
+          67
+        ],
+        "obj_char_span": [
+          70,
+          77
+        ],
+        "subj_tok_span": [
+          12,
+          13
+        ],
+        "obj_tok_span": [
+          14,
+          15
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Germany",
+        "object": "Hamburg",
+        "subj_char_span": [
+          70,
+          77
+        ],
+        "obj_char_span": [
+          60,
+          67
+        ],
+        "subj_tok_span": [
+          14,
+          15
+        ],
+        "obj_tok_span": [
+          12,
+          13
+        ]
+      },
+      {
+        "predicate": "/location/country/administrative_divisions",
+        "subject": "Germany",
+        "object": "Hamburg",
+        "subj_char_span": [
+          70,
+          77
+        ],
+        "obj_char_span": [
+          60,
+          67
+        ],
+        "subj_tok_span": [
+          14,
+          15
+        ],
+        "obj_tok_span": [
+          12,
+          13
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Hamburg",
+        "char_span": [
+          60,
+          67
+        ],
+        "tok_span": [
+          12,
+          13
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Germany",
+        "char_span": [
+          70,
+          77
+        ],
+        "tok_span": [
+          14,
+          15
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Germany",
+        "char_span": [
+          70,
+          77
+        ],
+        "tok_span": [
+          14,
+          15
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Hamburg",
+        "char_span": [
+          60,
+          67
+        ],
+        "tok_span": [
+          12,
+          13
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Germany",
+        "char_span": [
+          70,
+          77
+        ],
+        "tok_span": [
+          14,
+          15
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Hamburg",
+        "char_span": [
+          60,
+          67
+        ],
+        "tok_span": [
+          12,
+          13
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Today , the New York area is awash in plans for stadiums and arenas , with new homes planned for the Mets , the Yankees and the Nets in New York City , and the MetroStars , the Devils , the Giants and , maybe , the Jets in New Jersey .",
+    "id": "train_31",
+    "obj_char_span_starts": [
+      145,
+      145
+    ],
+    "obj_char_span_ends": [
+      149,
+      149
+    ],
+    "subj_char_span_starts": [
+      16,
+      140
+    ],
+    "subj_char_span_ends": [
+      20,
+      144
+    ],
+    "entity_char_span_starts": [
+      16,
+      145,
+      140,
+      145
+    ],
+    "entity_char_span_ends": [
+      20,
+      149,
+      144,
+      149
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "City",
+      "City"
+    ],
+    "raw_subjects": [
+      "York",
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "City",
+      "York",
+      "City"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "York",
+        "object": "City",
+        "subj_char_span": [
+          16,
+          20
+        ],
+        "obj_char_span": [
+          145,
+          149
+        ],
+        "subj_tok_span": [
+          5,
+          6
+        ],
+        "obj_tok_span": [
+          36,
+          37
+        ]
+      },
+      {
+        "predicate": "/location/location/contains",
+        "subject": "York",
+        "object": "City",
+        "subj_char_span": [
+          140,
+          144
+        ],
+        "obj_char_span": [
+          145,
+          149
+        ],
+        "subj_tok_span": [
+          35,
+          36
+        ],
+        "obj_tok_span": [
+          36,
+          37
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "York",
+        "char_span": [
+          16,
+          20
+        ],
+        "tok_span": [
+          5,
+          6
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "City",
+        "char_span": [
+          145,
+          149
+        ],
+        "tok_span": [
+          36,
+          37
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "York",
+        "char_span": [
+          140,
+          144
+        ],
+        "tok_span": [
+          35,
+          36
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "City",
+        "char_span": [
+          145,
+          149
+        ],
+        "tok_span": [
+          36,
+          37
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Whirlpool 's executives take issue with analysts who declare that low foreign wages , particularly in China and elsewhere in Asia , combined with generous subsidies from those countries , will keep the global production networks mobile .",
+    "id": "train_35",
+    "obj_char_span_starts": [
+      102
+    ],
+    "obj_char_span_ends": [
+      107
+    ],
+    "subj_char_span_starts": [
+      125
+    ],
+    "subj_char_span_ends": [
+      129
+    ],
+    "entity_char_span_starts": [
+      125,
+      102
+    ],
+    "entity_char_span_ends": [
+      129,
+      107
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "China"
+    ],
+    "raw_subjects": [
+      "Asia"
+    ],
+    "raw_entities": [
+      "Asia",
+      "China"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Asia",
+        "object": "China",
+        "subj_char_span": [
+          125,
+          129
+        ],
+        "obj_char_span": [
+          102,
+          107
+        ],
+        "subj_tok_span": [
+          25,
+          26
+        ],
+        "obj_tok_span": [
+          21,
+          22
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Asia",
+        "char_span": [
+          125,
+          129
+        ],
+        "tok_span": [
+          25,
+          26
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "China",
+        "char_span": [
+          102,
+          107
+        ],
+        "tok_span": [
+          21,
+          22
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "The new face of New York City is taking shape among the graceful Victorian houses and stout apartment buildings of Ditmas Park , Brooklyn .",
+    "id": "train_94",
+    "obj_char_span_starts": [
+      129
+    ],
+    "obj_char_span_ends": [
+      137
+    ],
+    "subj_char_span_starts": [
+      25
+    ],
+    "subj_char_span_ends": [
+      29
+    ],
+    "entity_char_span_starts": [
+      25,
+      129
+    ],
+    "entity_char_span_ends": [
+      29,
+      137
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Brooklyn"
+    ],
+    "raw_subjects": [
+      "City"
+    ],
+    "raw_entities": [
+      "City",
+      "Brooklyn"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "City",
+        "object": "Brooklyn",
+        "subj_char_span": [
+          25,
+          29
+        ],
+        "obj_char_span": [
+          129,
+          137
+        ],
+        "subj_tok_span": [
+          7,
+          8
+        ],
+        "obj_tok_span": [
+          28,
+          29
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "City",
+        "char_span": [
+          25,
+          29
+        ],
+        "tok_span": [
+          7,
+          8
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Brooklyn",
+        "char_span": [
+          129,
+          137
+        ],
+        "tok_span": [
+          28,
+          29
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "In a 3-0 victory over the Crew on Saturday in Columbus , Ohio , goalkeeper Zach Wells stopped Kyle Martino 's penalty kick , only the third unsuccessful penalty in 20 attempts in M.L.S . this season .",
+    "id": "train_3",
+    "obj_char_span_starts": [
+      46
+    ],
+    "obj_char_span_ends": [
+      54
+    ],
+    "subj_char_span_starts": [
+      57
+    ],
+    "subj_char_span_ends": [
+      61
+    ],
+    "entity_char_span_starts": [
+      57,
+      46
+    ],
+    "entity_char_span_ends": [
+      61,
+      54
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Columbus"
+    ],
+    "raw_subjects": [
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Ohio",
+      "Columbus"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Ohio",
+        "object": "Columbus",
+        "subj_char_span": [
+          57,
+          61
+        ],
+        "obj_char_span": [
+          46,
+          54
+        ],
+        "subj_tok_span": [
+          15,
+          16
+        ],
+        "obj_tok_span": [
+          13,
+          14
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Ohio",
+        "char_span": [
+          57,
+          61
+        ],
+        "tok_span": [
+          15,
+          16
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Columbus",
+        "char_span": [
+          46,
+          54
+        ],
+        "tok_span": [
+          13,
+          14
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "They could have done it Sunday , when we were closed , '' said Joseph Bastianich , who owns Del Posto with his mother , Lidia Bastianich , and the chef , Mario Batali .",
+    "id": "train_14",
+    "obj_char_span_starts": [
+      70,
+      126,
+      70,
+      126
+    ],
+    "obj_char_span_ends": [
+      80,
+      136,
+      80,
+      136
+    ],
+    "subj_char_span_starts": [
+      70,
+      70,
+      126,
+      126
+    ],
+    "subj_char_span_ends": [
+      80,
+      80,
+      136,
+      136
+    ],
+    "entity_char_span_starts": [
+      70,
+      70,
+      70,
+      126,
+      126,
+      70,
+      126,
+      126
+    ],
+    "entity_char_span_ends": [
+      80,
+      80,
+      80,
+      136,
+      136,
+      80,
+      136,
+      136
+    ],
+    "predicates": [
+      "/people/person/children",
+      "/people/person/children",
+      "/people/person/children",
+      "/people/person/children"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ],
+    "raw_subjects": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ],
+    "raw_entities": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/people/person/children",
+        "subject": "Bastianich",
+        "object": "Bastianich",
+        "subj_char_span": [
+          70,
+          80
+        ],
+        "obj_char_span": [
+          70,
+          80
+        ],
+        "subj_tok_span": [
+          17,
+          21
+        ],
+        "obj_tok_span": [
+          17,
+          21
+        ]
+      },
+      {
+        "predicate": "/people/person/children",
+        "subject": "Bastianich",
+        "object": "Bastianich",
+        "subj_char_span": [
+          70,
+          80
+        ],
+        "obj_char_span": [
+          126,
+          136
+        ],
+        "subj_tok_span": [
+          17,
+          21
+        ],
+        "obj_tok_span": [
+          33,
+          37
+        ]
+      },
+      {
+        "predicate": "/people/person/children",
+        "subject": "Bastianich",
+        "object": "Bastianich",
+        "subj_char_span": [
+          126,
+          136
+        ],
+        "obj_char_span": [
+          70,
+          80
+        ],
+        "subj_tok_span": [
+          33,
+          37
+        ],
+        "obj_tok_span": [
+          17,
+          21
+        ]
+      },
+      {
+        "predicate": "/people/person/children",
+        "subject": "Bastianich",
+        "object": "Bastianich",
+        "subj_char_span": [
+          126,
+          136
+        ],
+        "obj_char_span": [
+          126,
+          136
+        ],
+        "subj_tok_span": [
+          33,
+          37
+        ],
+        "obj_tok_span": [
+          33,
+          37
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Bastianich",
+        "char_span": [
+          70,
+          80
+        ],
+        "tok_span": [
+          17,
+          21
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          70,
+          80
+        ],
+        "tok_span": [
+          17,
+          21
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          70,
+          80
+        ],
+        "tok_span": [
+          17,
+          21
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          126,
+          136
+        ],
+        "tok_span": [
+          33,
+          37
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          126,
+          136
+        ],
+        "tok_span": [
+          33,
+          37
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          70,
+          80
+        ],
+        "tok_span": [
+          17,
+          21
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          126,
+          136
+        ],
+        "tok_span": [
+          33,
+          37
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Bastianich",
+        "char_span": [
+          126,
+          136
+        ],
+        "tok_span": [
+          33,
+          37
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  },
+  {
+    "text": "Odyl Leferink , a tour group leader from Haarlem , the Netherlands . ''",
+    "id": "train_81",
+    "obj_char_span_starts": [
+      41
+    ],
+    "obj_char_span_ends": [
+      48
+    ],
+    "subj_char_span_starts": [
+      55
+    ],
+    "subj_char_span_ends": [
+      66
+    ],
+    "entity_char_span_starts": [
+      55,
+      41
+    ],
+    "entity_char_span_ends": [
+      66,
+      48
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Haarlem"
+    ],
+    "raw_subjects": [
+      "Netherlands"
+    ],
+    "raw_entities": [
+      "Netherlands",
+      "Haarlem"
+    ],
+    "relation_list": [
+      {
+        "predicate": "/location/location/contains",
+        "subject": "Netherlands",
+        "object": "Haarlem",
+        "subj_char_span": [
+          55,
+          66
+        ],
+        "obj_char_span": [
+          41,
+          48
+        ],
+        "subj_tok_span": [
+          18,
+          19
+        ],
+        "obj_tok_span": [
+          13,
+          16
+        ]
+      }
+    ],
+    "entity_list": [
+      {
+        "text": "Netherlands",
+        "char_span": [
+          55,
+          66
+        ],
+        "tok_span": [
+          18,
+          19
+        ],
+        "type": "DEFAULT"
+      },
+      {
+        "text": "Haarlem",
+        "char_span": [
+          41,
+          48
+        ],
+        "tok_span": [
+          13,
+          16
+        ],
+        "type": "DEFAULT"
+      }
+    ],
+    "event_list": []
+  }
+]

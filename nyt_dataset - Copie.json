@@ -1,0 +1,5437 @@
+[
+  {
+    "text": "Massachusetts ASTON MAGNA Great Barrington ; also at Bard College , Annandale-on-Hudson , N.Y. , July 1-Aug .",
+    "id": "train_0",
+    "obj_char_span_starts": [
+      58
+    ],
+    "obj_char_span_ends": [
+      65
+    ],
+    "subj_char_span_starts": [
+      68
+    ],
+    "subj_char_span_ends": [
+      87
+    ],
+    "entity_char_span_starts": [
+      68,
+      58
+    ],
+    "entity_char_span_ends": [
+      87,
+      65
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "College"
+    ],
+    "raw_subjects": [
+      "Annandale-on-Hudson"
+    ],
+    "raw_entities": [
+      "Annandale-on-Hudson",
+      "College"
+    ]
+  },
+  {
+    "text": "North Carolina EASTERN MUSIC FESTIVAL Greensboro , June 25-July 30 .",
+    "id": "train_1",
+    "obj_char_span_starts": [
+      38
+    ],
+    "obj_char_span_ends": [
+      48
+    ],
+    "subj_char_span_starts": [
+      6
+    ],
+    "subj_char_span_ends": [
+      14
+    ],
+    "entity_char_span_starts": [
+      6,
+      38
+    ],
+    "entity_char_span_ends": [
+      14,
+      48
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Greensboro"
+    ],
+    "raw_subjects": [
+      "Carolina"
+    ],
+    "raw_entities": [
+      "Carolina",
+      "Greensboro"
+    ]
+  },
+  {
+    "text": "It will be the final movie credited to Debra Hill , a film producer and native of Haddonfield , who produced '' Halloween '' and was considered a pioneering woman in film .",
+    "id": "train_2",
+    "obj_char_span_starts": [
+      82
+    ],
+    "obj_char_span_ends": [
+      93
+    ],
+    "subj_char_span_starts": [
+      45
+    ],
+    "subj_char_span_ends": [
+      49
+    ],
+    "entity_char_span_starts": [
+      45,
+      82
+    ],
+    "entity_char_span_ends": [
+      49,
+      93
+    ],
+    "predicates": [
+      "/people/person/place_of_birth"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Haddonfield"
+    ],
+    "raw_subjects": [
+      "Hill"
+    ],
+    "raw_entities": [
+      "Hill",
+      "Haddonfield"
+    ]
+  },
+  {
+    "text": "In a 3-0 victory over the Crew on Saturday in Columbus , Ohio , goalkeeper Zach Wells stopped Kyle Martino 's penalty kick , only the third unsuccessful penalty in 20 attempts in M.L.S . this season .",
+    "id": "train_3",
+    "obj_char_span_starts": [
+      46
+    ],
+    "obj_char_span_ends": [
+      54
+    ],
+    "subj_char_span_starts": [
+      57
+    ],
+    "subj_char_span_ends": [
+      61
+    ],
+    "entity_char_span_starts": [
+      57,
+      46
+    ],
+    "entity_char_span_ends": [
+      61,
+      54
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Columbus"
+    ],
+    "raw_subjects": [
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Ohio",
+      "Columbus"
+    ]
+  },
+  {
+    "text": "The United States ambassador to Mexico , Tony Garza , said in a statement that he had directed the American Consulate in Nuevo Laredo to reopen on Monday , a week after he ordered it closed because of '' rampant violence '' along the northern border , including a gun battle in the city in which warring drug gangs used bazookas .",
+    "id": "train_4",
+    "obj_char_span_starts": [
+      127
+    ],
+    "obj_char_span_ends": [
+      133
+    ],
+    "subj_char_span_starts": [
+      32
+    ],
+    "subj_char_span_ends": [
+      38
+    ],
+    "entity_char_span_starts": [
+      32,
+      127
+    ],
+    "entity_char_span_ends": [
+      38,
+      133
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Laredo"
+    ],
+    "raw_subjects": [
+      "Mexico"
+    ],
+    "raw_entities": [
+      "Mexico",
+      "Laredo"
+    ]
+  },
+  {
+    "text": "Under pressure from Mr. Kerkorian and other disgruntled shareholders , Mr. Wagoner started talks on Friday in Detroit with Carlos Ghosn , the chief executive of Renault and Nissan .",
+    "id": "train_5",
+    "obj_char_span_starts": [
+      161
+    ],
+    "obj_char_span_ends": [
+      168
+    ],
+    "subj_char_span_starts": [
+      130
+    ],
+    "subj_char_span_ends": [
+      135
+    ],
+    "entity_char_span_starts": [
+      130,
+      161
+    ],
+    "entity_char_span_ends": [
+      135,
+      168
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Renault"
+    ],
+    "raw_subjects": [
+      "Ghosn"
+    ],
+    "raw_entities": [
+      "Ghosn",
+      "Renault"
+    ]
+  },
+  {
+    "text": "Mr. Ferrer still holds commanding leads over the other two Democrats in the race -- United States Representative Anthony D. Weiner of Brooklyn and Queens , and City Council Speaker Gifford Miller -- and is also ahead of Mayor Michael R. Bloomberg in most polls .",
+    "id": "train_6",
+    "obj_char_span_starts": [
+      147,
+      134
+    ],
+    "obj_char_span_ends": [
+      153,
+      142
+    ],
+    "subj_char_span_starts": [
+      124,
+      124
+    ],
+    "subj_char_span_ends": [
+      130,
+      130
+    ],
+    "entity_char_span_starts": [
+      124,
+      147,
+      124,
+      134
+    ],
+    "entity_char_span_ends": [
+      130,
+      153,
+      130,
+      142
+    ],
+    "predicates": [
+      "/people/person/place_lived",
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Queens",
+      "Brooklyn"
+    ],
+    "raw_subjects": [
+      "Weiner",
+      "Weiner"
+    ],
+    "raw_entities": [
+      "Weiner",
+      "Queens",
+      "Weiner",
+      "Brooklyn"
+    ]
+  },
+  {
+    "text": "United States Representative Charles B. Rangel said yesterday that he would endorse C. Virginia Fields in New York City 's Democratic mayoral primary , giving her a jolt of momentum and delivering a setback to the efforts of Fernando Ferrer , the former Bronx borough president , to win black support .",
+    "id": "train_7",
+    "obj_char_span_starts": [
+      115,
+      115
+    ],
+    "obj_char_span_ends": [
+      119,
+      119
+    ],
+    "subj_char_span_starts": [
+      40,
+      40
+    ],
+    "subj_char_span_ends": [
+      46,
+      46
+    ],
+    "entity_char_span_starts": [
+      40,
+      115,
+      40,
+      115
+    ],
+    "entity_char_span_ends": [
+      46,
+      119,
+      46,
+      119
+    ],
+    "predicates": [
+      "/people/person/place_lived",
+      "/people/person/place_of_birth"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "City",
+      "City"
+    ],
+    "raw_subjects": [
+      "Rangel",
+      "Rangel"
+    ],
+    "raw_entities": [
+      "Rangel",
+      "City",
+      "Rangel",
+      "City"
+    ]
+  },
+  {
+    "text": "These are tough changes , and some of them will be quite controversial among our colleagues here , '' Senator Joseph I. Lieberman , Democrat of Connecticut , said Thursday as he endorsed a plan developed by Senator John McCain , Republican of Arizona , after his hearings into Mr. Abramoff 's bilking of Indian tribes through a lobbying operation .",
+    "id": "train_8",
+    "obj_char_span_starts": [
+      243
+    ],
+    "obj_char_span_ends": [
+      250
+    ],
+    "subj_char_span_starts": [
+      220
+    ],
+    "subj_char_span_ends": [
+      226
+    ],
+    "entity_char_span_starts": [
+      220,
+      243
+    ],
+    "entity_char_span_ends": [
+      226,
+      250
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Arizona"
+    ],
+    "raw_subjects": [
+      "McCain"
+    ],
+    "raw_entities": [
+      "McCain",
+      "Arizona"
+    ]
+  },
+  {
+    "text": "Quebec , Canada 's second most populous province , after Ontario , has not decided to go that far .",
+    "id": "train_9",
+    "obj_char_span_starts": [
+      9,
+      57,
+      57
+    ],
+    "obj_char_span_ends": [
+      15,
+      64,
+      64
+    ],
+    "subj_char_span_starts": [
+      57,
+      9,
+      9
+    ],
+    "subj_char_span_ends": [
+      64,
+      15,
+      15
+    ],
+    "entity_char_span_starts": [
+      57,
+      9,
+      9,
+      57,
+      9,
+      57
+    ],
+    "entity_char_span_ends": [
+      64,
+      15,
+      15,
+      64,
+      15,
+      64
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/location/contains",
+      "/location/country/administrative_divisions"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Canada",
+      "Ontario",
+      "Ontario"
+    ],
+    "raw_subjects": [
+      "Ontario",
+      "Canada",
+      "Canada"
+    ],
+    "raw_entities": [
+      "Ontario",
+      "Canada",
+      "Canada",
+      "Ontario",
+      "Canada",
+      "Ontario"
+    ]
+  },
+  {
+    "text": "Of Boca Raton , Florida , peacefully on April 30 .",
+    "id": "train_10",
+    "obj_char_span_starts": [
+      8
+    ],
+    "obj_char_span_ends": [
+      13
+    ],
+    "subj_char_span_starts": [
+      16
+    ],
+    "subj_char_span_ends": [
+      23
+    ],
+    "entity_char_span_starts": [
+      16,
+      8
+    ],
+    "entity_char_span_ends": [
+      23,
+      13
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Raton"
+    ],
+    "raw_subjects": [
+      "Florida"
+    ],
+    "raw_entities": [
+      "Florida",
+      "Raton"
+    ]
+  },
+  {
+    "text": "It is my sincere hope that we will reignite our united purpose , '' Senator Mitch McConnell of Kentucky , the Republican whip , said on the Senate floor before the ceremony .",
+    "id": "train_11",
+    "obj_char_span_starts": [
+      95
+    ],
+    "obj_char_span_ends": [
+      103
+    ],
+    "subj_char_span_starts": [
+      82
+    ],
+    "subj_char_span_ends": [
+      91
+    ],
+    "entity_char_span_starts": [
+      82,
+      95
+    ],
+    "entity_char_span_ends": [
+      91,
+      103
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Kentucky"
+    ],
+    "raw_subjects": [
+      "McConnell"
+    ],
+    "raw_entities": [
+      "McConnell",
+      "Kentucky"
+    ]
+  },
+  {
+    "text": "And Abu Izzadeen , who converted to Islam at 17 and heads another successor group to Al Muhajiroun , called Al Ghurabaa , called suicide bombing '' martyrdom operations . ''",
+    "id": "train_12",
+    "obj_char_span_starts": [
+      36
+    ],
+    "obj_char_span_ends": [
+      41
+    ],
+    "subj_char_span_starts": [
+      8
+    ],
+    "subj_char_span_ends": [
+      16
+    ],
+    "entity_char_span_starts": [
+      8,
+      36
+    ],
+    "entity_char_span_ends": [
+      16,
+      41
+    ],
+    "predicates": [
+      "/people/person/religion"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Islam"
+    ],
+    "raw_subjects": [
+      "Izzadeen"
+    ],
+    "raw_entities": [
+      "Izzadeen",
+      "Islam"
+    ]
+  },
+  {
+    "text": "And yet , despite the success of its exhibitions , the institute remains something of a strange hybrid : located southeast of Notre-Dame , in a striking building designed by Jean Nouvel , it has operated since 1987 as a partnership between France and 22 Arab countries .",
+    "id": "train_13",
+    "obj_char_span_starts": [
+      240
+    ],
+    "obj_char_span_ends": [
+      246
+    ],
+    "subj_char_span_starts": [
+      179
+    ],
+    "subj_char_span_ends": [
+      185
+    ],
+    "entity_char_span_starts": [
+      179,
+      240
+    ],
+    "entity_char_span_ends": [
+      185,
+      246
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "France"
+    ],
+    "raw_subjects": [
+      "Nouvel"
+    ],
+    "raw_entities": [
+      "Nouvel",
+      "France"
+    ]
+  },
+  {
+    "text": "They could have done it Sunday , when we were closed , '' said Joseph Bastianich , who owns Del Posto with his mother , Lidia Bastianich , and the chef , Mario Batali .",
+    "id": "train_14",
+    "obj_char_span_starts": [
+      70,
+      126,
+      70,
+      126
+    ],
+    "obj_char_span_ends": [
+      80,
+      136,
+      80,
+      136
+    ],
+    "subj_char_span_starts": [
+      70,
+      70,
+      126,
+      126
+    ],
+    "subj_char_span_ends": [
+      80,
+      80,
+      136,
+      136
+    ],
+    "entity_char_span_starts": [
+      70,
+      70,
+      70,
+      126,
+      126,
+      70,
+      126,
+      126
+    ],
+    "entity_char_span_ends": [
+      80,
+      80,
+      80,
+      136,
+      136,
+      80,
+      136,
+      136
+    ],
+    "predicates": [
+      "/people/person/children",
+      "/people/person/children",
+      "/people/person/children",
+      "/people/person/children"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ],
+    "raw_subjects": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ],
+    "raw_entities": [
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich",
+      "Bastianich"
+    ]
+  },
+  {
+    "text": "A French court sentenced six Algerian-French men to prison terms of up to 10 years on Tuesday for their role in a 2001 plot to attack the United States Embassy in Paris , closing the books on one of France 's most serious terrorist cases .",
+    "id": "train_15",
+    "obj_char_span_starts": [
+      199,
+      163,
+      163,
+      163
+    ],
+    "obj_char_span_ends": [
+      205,
+      168,
+      168,
+      168
+    ],
+    "subj_char_span_starts": [
+      163,
+      199,
+      199,
+      199
+    ],
+    "subj_char_span_ends": [
+      168,
+      205,
+      205,
+      205
+    ],
+    "entity_char_span_starts": [
+      163,
+      199,
+      199,
+      163,
+      199,
+      163,
+      199,
+      163
+    ],
+    "entity_char_span_ends": [
+      168,
+      205,
+      205,
+      168,
+      205,
+      168,
+      205,
+      168
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/location/contains",
+      "/location/country/administrative_divisions",
+      "/location/country/capital"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "France",
+      "Paris",
+      "Paris",
+      "Paris"
+    ],
+    "raw_subjects": [
+      "Paris",
+      "France",
+      "France",
+      "France"
+    ],
+    "raw_entities": [
+      "Paris",
+      "France",
+      "France",
+      "Paris",
+      "France",
+      "Paris",
+      "France",
+      "Paris"
+    ]
+  },
+  {
+    "text": "If Charles 's impending marriage to Mrs. Parker Bowles has n't given Britain 's royal family enough to worry about , it now can contend with moments like those in a new show created by the Danish choreographer Peter Schaufuss and based on the life of Charles 's first wife , which opened last night in Manchester , England .",
+    "id": "train_16",
+    "obj_char_span_starts": [
+      302
+    ],
+    "obj_char_span_ends": [
+      312
+    ],
+    "subj_char_span_starts": [
+      315
+    ],
+    "subj_char_span_ends": [
+      322
+    ],
+    "entity_char_span_starts": [
+      315,
+      302
+    ],
+    "entity_char_span_ends": [
+      322,
+      312
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Manchester"
+    ],
+    "raw_subjects": [
+      "England"
+    ],
+    "raw_entities": [
+      "England",
+      "Manchester"
+    ]
+  },
+  {
+    "text": "Having read so many drooling press notices about this European youth guru , I figured I 'd drop in on Dr. Sebagh 's practice at 25 Wimpole Street -- the same street where the medical establishment held thick-headed sway in Virginia Woolf 's day -- when I was in London some months ago .",
+    "id": "train_17",
+    "obj_char_span_starts": [
+      262
+    ],
+    "obj_char_span_ends": [
+      268
+    ],
+    "subj_char_span_starts": [
+      232
+    ],
+    "subj_char_span_ends": [
+      237
+    ],
+    "entity_char_span_starts": [
+      232,
+      262
+    ],
+    "entity_char_span_ends": [
+      237,
+      268
+    ],
+    "predicates": [
+      "/people/person/place_of_birth"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "London"
+    ],
+    "raw_subjects": [
+      "Woolf"
+    ],
+    "raw_entities": [
+      "Woolf",
+      "London"
+    ]
+  },
+  {
+    "text": "She is a daughter of Carole and R. Sheldon Scherer of Plandome , N.Y . Her father is a first vice president in the private client group at Merrill Lynch in New York The bridegroom , 34 , is a managing director and investment banker at Citigroup in New York .",
+    "id": "train_18",
+    "obj_char_span_starts": [
+      54,
+      54
+    ],
+    "obj_char_span_ends": [
+      62,
+      62
+    ],
+    "subj_char_span_starts": [
+      160,
+      252
+    ],
+    "subj_char_span_ends": [
+      164,
+      256
+    ],
+    "entity_char_span_starts": [
+      160,
+      54,
+      252,
+      54
+    ],
+    "entity_char_span_ends": [
+      164,
+      62,
+      256,
+      62
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Plandome",
+      "Plandome"
+    ],
+    "raw_subjects": [
+      "York",
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "Plandome",
+      "York",
+      "Plandome"
+    ]
+  },
+  {
+    "text": "He counts John Hiatt , Amy Grant and Vince Gill among his close friends in Nashville .",
+    "id": "train_19",
+    "obj_char_span_starts": [
+      75
+    ],
+    "obj_char_span_ends": [
+      84
+    ],
+    "subj_char_span_starts": [
+      27
+    ],
+    "subj_char_span_ends": [
+      32
+    ],
+    "entity_char_span_starts": [
+      27,
+      75
+    ],
+    "entity_char_span_ends": [
+      32,
+      84
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nashville"
+    ],
+    "raw_subjects": [
+      "Grant"
+    ],
+    "raw_entities": [
+      "Grant",
+      "Nashville"
+    ]
+  },
+  {
+    "text": "Mr. Hicks has had to rely on his neighbors both for reviving Carnton and for a larger effort to restore what remains of the Franklin battle site , a project taking shape under an organization called Franklin 's Charge , which Mr. Hicks oversees .",
+    "id": "train_20",
+    "obj_char_span_starts": [
+      61,
+      61
+    ],
+    "obj_char_span_ends": [
+      68,
+      68
+    ],
+    "subj_char_span_starts": [
+      124,
+      199
+    ],
+    "subj_char_span_ends": [
+      132,
+      207
+    ],
+    "entity_char_span_starts": [
+      124,
+      61,
+      199,
+      61
+    ],
+    "entity_char_span_ends": [
+      132,
+      68,
+      207,
+      68
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Carnton",
+      "Carnton"
+    ],
+    "raw_subjects": [
+      "Franklin",
+      "Franklin"
+    ],
+    "raw_entities": [
+      "Franklin",
+      "Carnton",
+      "Franklin",
+      "Carnton"
+    ]
+  },
+  {
+    "text": "In Baghdad , Mr. Gates talked to enlisted service members on the second day of his visit to Iraq .",
+    "id": "train_21",
+    "obj_char_span_starts": [
+      3,
+      3
+    ],
+    "obj_char_span_ends": [
+      10,
+      10
+    ],
+    "subj_char_span_starts": [
+      92,
+      92
+    ],
+    "subj_char_span_ends": [
+      96,
+      96
+    ],
+    "entity_char_span_starts": [
+      92,
+      3,
+      92,
+      3
+    ],
+    "entity_char_span_ends": [
+      96,
+      10,
+      96,
+      10
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/country/capital"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Baghdad",
+      "Baghdad"
+    ],
+    "raw_subjects": [
+      "Iraq",
+      "Iraq"
+    ],
+    "raw_entities": [
+      "Iraq",
+      "Baghdad",
+      "Iraq",
+      "Baghdad"
+    ]
+  },
+  {
+    "text": "As those political moves played out , the new United States defense secretary , Robert M. Gates , met with enlisted men and women in Baghdad to talk about the possibility that more troops could be sent to Iraq .",
+    "id": "train_22",
+    "obj_char_span_starts": [
+      133,
+      133
+    ],
+    "obj_char_span_ends": [
+      140,
+      140
+    ],
+    "subj_char_span_starts": [
+      205,
+      205
+    ],
+    "subj_char_span_ends": [
+      209,
+      209
+    ],
+    "entity_char_span_starts": [
+      205,
+      133,
+      205,
+      133
+    ],
+    "entity_char_span_ends": [
+      209,
+      140,
+      209,
+      140
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Baghdad",
+      "Baghdad"
+    ],
+    "raw_subjects": [
+      "Iraq",
+      "Iraq"
+    ],
+    "raw_entities": [
+      "Iraq",
+      "Baghdad",
+      "Iraq",
+      "Baghdad"
+    ]
+  },
+  {
+    "text": "Given Nigeria 's own unhappy recent past as a dictatorship and its current role as a force for peace and stability in Africa , Mr. Obasanjo 's harboring of Mr. Taylor is perplexing .",
+    "id": "train_23",
+    "obj_char_span_starts": [
+      6
+    ],
+    "obj_char_span_ends": [
+      13
+    ],
+    "subj_char_span_starts": [
+      118
+    ],
+    "subj_char_span_ends": [
+      124
+    ],
+    "entity_char_span_starts": [
+      118,
+      6
+    ],
+    "entity_char_span_ends": [
+      124,
+      13
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nigeria"
+    ],
+    "raw_subjects": [
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Nigeria"
+    ]
+  },
+  {
+    "text": "NEARLY two years after Charles Taylor fled Monrovia under pressure from advancing rebels and a force of Marines on ships off Liberia , he sits exiled in Nigeria , plotting to undermine an international effort to rebuild the country he did so much to destroy .",
+    "id": "train_24",
+    "obj_char_span_starts": [
+      43,
+      43
+    ],
+    "obj_char_span_ends": [
+      51,
+      51
+    ],
+    "subj_char_span_starts": [
+      125,
+      125
+    ],
+    "subj_char_span_ends": [
+      132,
+      132
+    ],
+    "entity_char_span_starts": [
+      125,
+      43,
+      125,
+      43
+    ],
+    "entity_char_span_ends": [
+      132,
+      51,
+      132,
+      51
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Monrovia",
+      "Monrovia"
+    ],
+    "raw_subjects": [
+      "Liberia",
+      "Liberia"
+    ],
+    "raw_entities": [
+      "Liberia",
+      "Monrovia",
+      "Liberia",
+      "Monrovia"
+    ]
+  },
+  {
+    "text": "Anheuser-Busch , which has been the exclusive beer sponsor for the Super Bowl since 1989 , will do so again for the Super Bowls in 2007 and 2010 on CBS and in 2008 and 2011 on Fox Broadcasting , said Anthony T. Ponturo , vice president for global media and sports marketing at Anheuser-Busch in St. Louis .",
+    "id": "train_25",
+    "obj_char_span_starts": [
+      0,
+      277,
+      299,
+      299
+    ],
+    "obj_char_span_ends": [
+      14,
+      291,
+      304,
+      304
+    ],
+    "subj_char_span_starts": [
+      299,
+      299,
+      0,
+      277
+    ],
+    "subj_char_span_ends": [
+      304,
+      304,
+      14,
+      291
+    ],
+    "entity_char_span_starts": [
+      299,
+      0,
+      299,
+      277,
+      0,
+      299,
+      277,
+      299
+    ],
+    "entity_char_span_ends": [
+      304,
+      14,
+      304,
+      291,
+      14,
+      304,
+      291,
+      304
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/business/company/place_founded",
+      "/business/company/place_founded"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Anheuser-Busch",
+      "Anheuser-Busch",
+      "Louis",
+      "Louis"
+    ],
+    "raw_subjects": [
+      "Louis",
+      "Louis",
+      "Anheuser-Busch",
+      "Anheuser-Busch"
+    ],
+    "raw_entities": [
+      "Louis",
+      "Anheuser-Busch",
+      "Louis",
+      "Anheuser-Busch",
+      "Anheuser-Busch",
+      "Louis",
+      "Anheuser-Busch",
+      "Louis"
+    ]
+  },
+  {
+    "text": "POPE BENEDICT XVI : RECOLLECTIONS Correction : April 23 , 2005 , Saturday A picture caption yesterday with an article about recollections of Pope Benedict XVI by people who knew him in Germany misspelled the name of a neighbor near Regensburg .",
+    "id": "train_26",
+    "obj_char_span_starts": [
+      232
+    ],
+    "obj_char_span_ends": [
+      242
+    ],
+    "subj_char_span_starts": [
+      185
+    ],
+    "subj_char_span_ends": [
+      192
+    ],
+    "entity_char_span_starts": [
+      185,
+      232
+    ],
+    "entity_char_span_ends": [
+      192,
+      242
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Regensburg"
+    ],
+    "raw_subjects": [
+      "Germany"
+    ],
+    "raw_entities": [
+      "Germany",
+      "Regensburg"
+    ]
+  },
+  {
+    "text": "He 's 91 , I 'm 84 , '' said Pancho Segura , the venerable teaching professional , whom Mr. Mulloy recruited to the University of Miami 's tennis team from Ecuador more than six decades ago . ''",
+    "id": "train_27",
+    "obj_char_span_starts": [
+      156
+    ],
+    "obj_char_span_ends": [
+      163
+    ],
+    "subj_char_span_starts": [
+      36
+    ],
+    "subj_char_span_ends": [
+      42
+    ],
+    "entity_char_span_starts": [
+      36,
+      156
+    ],
+    "entity_char_span_ends": [
+      42,
+      163
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Ecuador"
+    ],
+    "raw_subjects": [
+      "Segura"
+    ],
+    "raw_entities": [
+      "Segura",
+      "Ecuador"
+    ]
+  },
+  {
+    "text": "The report said that the commercial would also be staged in Hamburg , Germany ; New York ; and Pittsburgh .",
+    "id": "train_28",
+    "obj_char_span_starts": [
+      70,
+      60,
+      60
+    ],
+    "obj_char_span_ends": [
+      77,
+      67,
+      67
+    ],
+    "subj_char_span_starts": [
+      60,
+      70,
+      70
+    ],
+    "subj_char_span_ends": [
+      67,
+      77,
+      77
+    ],
+    "entity_char_span_starts": [
+      60,
+      70,
+      70,
+      60,
+      70,
+      60
+    ],
+    "entity_char_span_ends": [
+      67,
+      77,
+      77,
+      67,
+      77,
+      67
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/location/contains",
+      "/location/country/administrative_divisions"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Germany",
+      "Hamburg",
+      "Hamburg"
+    ],
+    "raw_subjects": [
+      "Hamburg",
+      "Germany",
+      "Germany"
+    ],
+    "raw_entities": [
+      "Hamburg",
+      "Germany",
+      "Germany",
+      "Hamburg",
+      "Germany",
+      "Hamburg"
+    ]
+  },
+  {
+    "text": "I came over from Calabria , Italy , when I was 11 , and right away I began cutting hair here , '' said Mr. Trunzo , who is 88 .",
+    "id": "train_29",
+    "obj_char_span_starts": [
+      28,
+      17,
+      17
+    ],
+    "obj_char_span_ends": [
+      33,
+      25,
+      25
+    ],
+    "subj_char_span_starts": [
+      17,
+      28,
+      28
+    ],
+    "subj_char_span_ends": [
+      25,
+      33,
+      33
+    ],
+    "entity_char_span_starts": [
+      17,
+      28,
+      28,
+      17,
+      28,
+      17
+    ],
+    "entity_char_span_ends": [
+      25,
+      33,
+      33,
+      25,
+      33,
+      25
+    ],
+    "predicates": [
+      "/location/administrative_division/country",
+      "/location/country/administrative_divisions",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Italy",
+      "Calabria",
+      "Calabria"
+    ],
+    "raw_subjects": [
+      "Calabria",
+      "Italy",
+      "Italy"
+    ],
+    "raw_entities": [
+      "Calabria",
+      "Italy",
+      "Italy",
+      "Calabria",
+      "Italy",
+      "Calabria"
+    ]
+  },
+  {
+    "text": "The meeting , in the house of Sheik Hamid Turki al-Shawka , a prominent tribal leader from Ramadi , lasted for five hours and included Sunni Arabs from Qaim , near the Syrian border , Mosul , in northern Iraq , and Baquba , north of Baghdad , as well as some Kurds and a few Shiites , the leaders said .",
+    "id": "train_30",
+    "obj_char_span_starts": [
+      233,
+      91,
+      233,
+      184
+    ],
+    "obj_char_span_ends": [
+      240,
+      97,
+      240,
+      189
+    ],
+    "subj_char_span_starts": [
+      204,
+      204,
+      204,
+      204
+    ],
+    "subj_char_span_ends": [
+      208,
+      208,
+      208,
+      208
+    ],
+    "entity_char_span_starts": [
+      204,
+      233,
+      204,
+      91,
+      204,
+      233,
+      204,
+      184
+    ],
+    "entity_char_span_ends": [
+      208,
+      240,
+      208,
+      97,
+      208,
+      240,
+      208,
+      189
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Baghdad",
+      "Ramadi",
+      "Baghdad",
+      "Mosul"
+    ],
+    "raw_subjects": [
+      "Iraq",
+      "Iraq",
+      "Iraq",
+      "Iraq"
+    ],
+    "raw_entities": [
+      "Iraq",
+      "Baghdad",
+      "Iraq",
+      "Ramadi",
+      "Iraq",
+      "Baghdad",
+      "Iraq",
+      "Mosul"
+    ]
+  },
+  {
+    "text": "Today , the New York area is awash in plans for stadiums and arenas , with new homes planned for the Mets , the Yankees and the Nets in New York City , and the MetroStars , the Devils , the Giants and , maybe , the Jets in New Jersey .",
+    "id": "train_31",
+    "obj_char_span_starts": [
+      145,
+      145
+    ],
+    "obj_char_span_ends": [
+      149,
+      149
+    ],
+    "subj_char_span_starts": [
+      16,
+      140
+    ],
+    "subj_char_span_ends": [
+      20,
+      144
+    ],
+    "entity_char_span_starts": [
+      16,
+      145,
+      140,
+      145
+    ],
+    "entity_char_span_ends": [
+      20,
+      149,
+      144,
+      149
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "City",
+      "City"
+    ],
+    "raw_subjects": [
+      "York",
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "City",
+      "York",
+      "City"
+    ]
+  },
+  {
+    "text": "By the early 19th century , the most prolific oyster beds around Manhattan and Staten Island were nearly played out , and for the remainder of the century , New York , like a great , gobbling maw , would eat its way up and down the coast of Long Island , overconsuming and polluting the oyster nigh unto extinction .",
+    "id": "train_32",
+    "obj_char_span_starts": [
+      86,
+      246,
+      65
+    ],
+    "obj_char_span_ends": [
+      92,
+      252,
+      74
+    ],
+    "subj_char_span_starts": [
+      161,
+      161,
+      161
+    ],
+    "subj_char_span_ends": [
+      165,
+      165,
+      165
+    ],
+    "entity_char_span_starts": [
+      161,
+      86,
+      161,
+      246,
+      161,
+      65
+    ],
+    "entity_char_span_ends": [
+      165,
+      92,
+      165,
+      252,
+      165,
+      74
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Island",
+      "Island",
+      "Manhattan"
+    ],
+    "raw_subjects": [
+      "York",
+      "York",
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "Island",
+      "York",
+      "Island",
+      "York",
+      "Manhattan"
+    ]
+  },
+  {
+    "text": "Whirlpool 's global network , a work in progress , includes microwave ovens engineered in Sweden and made in China for American consumers ; stoves designed in America and made in Tulsa , Okla. , for American consumers ; refrigerators assembled in Brazil and exported to Europe ; and top-loading washers made at a sprawling factory in Clyde , Ohio , for American consumers , although some are sold in Mexico . ''",
+    "id": "train_33",
+    "obj_char_span_starts": [
+      90,
+      334
+    ],
+    "obj_char_span_ends": [
+      96,
+      339
+    ],
+    "subj_char_span_starts": [
+      270,
+      342
+    ],
+    "subj_char_span_ends": [
+      276,
+      346
+    ],
+    "entity_char_span_starts": [
+      270,
+      90,
+      342,
+      334
+    ],
+    "entity_char_span_ends": [
+      276,
+      96,
+      346,
+      339
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Sweden",
+      "Clyde"
+    ],
+    "raw_subjects": [
+      "Europe",
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Europe",
+      "Sweden",
+      "Ohio",
+      "Clyde"
+    ]
+  },
+  {
+    "text": "Sunk cost figured in Whirlpool 's decision to ship front-loader washing machines to the United States from its factory in Schorndorf , Germany , which Whirlpool acquired in 1991 with the purchase of the appliance operations of Philips N.V. for more than $ 1 billion .",
+    "id": "train_34",
+    "obj_char_span_starts": [
+      122
+    ],
+    "obj_char_span_ends": [
+      132
+    ],
+    "subj_char_span_starts": [
+      135
+    ],
+    "subj_char_span_ends": [
+      142
+    ],
+    "entity_char_span_starts": [
+      135,
+      122
+    ],
+    "entity_char_span_ends": [
+      142,
+      132
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Schorndorf"
+    ],
+    "raw_subjects": [
+      "Germany"
+    ],
+    "raw_entities": [
+      "Germany",
+      "Schorndorf"
+    ]
+  },
+  {
+    "text": "Whirlpool 's executives take issue with analysts who declare that low foreign wages , particularly in China and elsewhere in Asia , combined with generous subsidies from those countries , will keep the global production networks mobile .",
+    "id": "train_35",
+    "obj_char_span_starts": [
+      102
+    ],
+    "obj_char_span_ends": [
+      107
+    ],
+    "subj_char_span_starts": [
+      125
+    ],
+    "subj_char_span_ends": [
+      129
+    ],
+    "entity_char_span_starts": [
+      125,
+      102
+    ],
+    "entity_char_span_ends": [
+      129,
+      107
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "China"
+    ],
+    "raw_subjects": [
+      "Asia"
+    ],
+    "raw_entities": [
+      "Asia",
+      "China"
+    ]
+  },
+  {
+    "text": "The concentration of suppliers in northern Mexico helps explain why Whirlpool has decided to produce a less-costly front-loading washing machine at its existing manufacturing complex in Monterrey .",
+    "id": "train_36",
+    "obj_char_span_starts": [
+      186
+    ],
+    "obj_char_span_ends": [
+      195
+    ],
+    "subj_char_span_starts": [
+      43
+    ],
+    "subj_char_span_ends": [
+      49
+    ],
+    "entity_char_span_starts": [
+      43,
+      186
+    ],
+    "entity_char_span_ends": [
+      49,
+      195
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Monterrey"
+    ],
+    "raw_subjects": [
+      "Mexico"
+    ],
+    "raw_entities": [
+      "Mexico",
+      "Monterrey"
+    ]
+  },
+  {
+    "text": "Just as it was 20 years ago , Nicaragua now finds itself smack in the middle of the conflict with the election this week of Daniel Ortega , the former Marxist rebel leader , as president .",
+    "id": "train_37",
+    "obj_char_span_starts": [
+      30
+    ],
+    "obj_char_span_ends": [
+      39
+    ],
+    "subj_char_span_starts": [
+      131
+    ],
+    "subj_char_span_ends": [
+      137
+    ],
+    "entity_char_span_starts": [
+      131,
+      30
+    ],
+    "entity_char_span_ends": [
+      137,
+      39
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nicaragua"
+    ],
+    "raw_subjects": [
+      "Ortega"
+    ],
+    "raw_entities": [
+      "Ortega",
+      "Nicaragua"
+    ]
+  },
+  {
+    "text": "Of Upper Montclair , New Jersey , formerly of New York City , New York & East Meadow , NY .",
+    "id": "train_38",
+    "obj_char_span_starts": [
+      9
+    ],
+    "obj_char_span_ends": [
+      18
+    ],
+    "subj_char_span_starts": [
+      25
+    ],
+    "subj_char_span_ends": [
+      31
+    ],
+    "entity_char_span_starts": [
+      25,
+      9
+    ],
+    "entity_char_span_ends": [
+      31,
+      18
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Montclair"
+    ],
+    "raw_subjects": [
+      "Jersey"
+    ],
+    "raw_entities": [
+      "Jersey",
+      "Montclair"
+    ]
+  },
+  {
+    "text": "Defensively , the Giants rarely touched Eagles quarterback Donovan McNabb , and the secondary kept away from Philadelphia receivers as if they were toxic .",
+    "id": "train_39",
+    "obj_char_span_starts": [
+      109
+    ],
+    "obj_char_span_ends": [
+      121
+    ],
+    "subj_char_span_starts": [
+      67
+    ],
+    "subj_char_span_ends": [
+      73
+    ],
+    "entity_char_span_starts": [
+      67,
+      109
+    ],
+    "entity_char_span_ends": [
+      73,
+      121
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Philadelphia"
+    ],
+    "raw_subjects": [
+      "McNabb"
+    ],
+    "raw_entities": [
+      "McNabb",
+      "Philadelphia"
+    ]
+  },
+  {
+    "text": "Somewhat chastened by his retreat in the polls , Mr. Blair acknowledged that Britons had turned against him in part over accusations that he led them into a war in Iraq on dubious legal grounds and on the false premise that Saddam Hussein presented a direct threat because of a supposed arsenal of unconventional weapons that was never found . ''",
+    "id": "train_40",
+    "obj_char_span_starts": [
+      164,
+      164,
+      164
+    ],
+    "obj_char_span_ends": [
+      168,
+      168,
+      168
+    ],
+    "subj_char_span_starts": [
+      231,
+      231,
+      231
+    ],
+    "subj_char_span_ends": [
+      238,
+      238,
+      238
+    ],
+    "entity_char_span_starts": [
+      231,
+      164,
+      231,
+      164,
+      231,
+      164
+    ],
+    "entity_char_span_ends": [
+      238,
+      168,
+      238,
+      168,
+      238,
+      168
+    ],
+    "predicates": [
+      "/people/person/nationality",
+      "/people/person/place_of_birth",
+      "/people/deceased_person/place_of_death"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Iraq",
+      "Iraq",
+      "Iraq"
+    ],
+    "raw_subjects": [
+      "Hussein",
+      "Hussein",
+      "Hussein"
+    ],
+    "raw_entities": [
+      "Hussein",
+      "Iraq",
+      "Hussein",
+      "Iraq",
+      "Hussein",
+      "Iraq"
+    ]
+  },
+  {
+    "text": "Time spent on teasers , bumpers and intro music in Seattle outnumbered time covering the Washington gubernatorial race by 14 to 1 , '' the researchers wrote .",
+    "id": "train_41",
+    "obj_char_span_starts": [
+      51
+    ],
+    "obj_char_span_ends": [
+      58
+    ],
+    "subj_char_span_starts": [
+      89
+    ],
+    "subj_char_span_ends": [
+      99
+    ],
+    "entity_char_span_starts": [
+      89,
+      51
+    ],
+    "entity_char_span_ends": [
+      99,
+      58
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Seattle"
+    ],
+    "raw_subjects": [
+      "Washington"
+    ],
+    "raw_entities": [
+      "Washington",
+      "Seattle"
+    ]
+  },
+  {
+    "text": "The study -- which was carried out by researchers at the University of Wisconsin and Seton Hall University in South Orange , N.J. , and led by the Norman Lear Center at the Annenberg School for Communication at the University of Southern California -- analyzed more than 4,000 local newscasts that were broadcast in 11 major markets , including New York , Los Angeles , Philadelphia and Miami , in the four weeks before the election .",
+    "id": "train_42",
+    "obj_char_span_starts": [
+      238
+    ],
+    "obj_char_span_ends": [
+      248
+    ],
+    "subj_char_span_starts": [
+      360
+    ],
+    "subj_char_span_ends": [
+      367
+    ],
+    "entity_char_span_starts": [
+      360,
+      238
+    ],
+    "entity_char_span_ends": [
+      367,
+      248
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "California"
+    ],
+    "raw_subjects": [
+      "Angeles"
+    ],
+    "raw_entities": [
+      "Angeles",
+      "California"
+    ]
+  },
+  {
+    "text": "The study will be formally presented tomorrow at a news conference hosted by Senator John McCain of Arizona , a critic of efforts to ease restrictions on media ownership . ''",
+    "id": "train_43",
+    "obj_char_span_starts": [
+      100
+    ],
+    "obj_char_span_ends": [
+      107
+    ],
+    "subj_char_span_starts": [
+      90
+    ],
+    "subj_char_span_ends": [
+      96
+    ],
+    "entity_char_span_starts": [
+      90,
+      100
+    ],
+    "entity_char_span_ends": [
+      96,
+      107
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Arizona"
+    ],
+    "raw_subjects": [
+      "McCain"
+    ],
+    "raw_entities": [
+      "McCain",
+      "Arizona"
+    ]
+  },
+  {
+    "text": "Goodyear officials scurried back to their racing headquarters in Akron , Ohio , and carefully reviewed the tire data from the June 12 race .",
+    "id": "train_44",
+    "obj_char_span_starts": [
+      65
+    ],
+    "obj_char_span_ends": [
+      70
+    ],
+    "subj_char_span_starts": [
+      73
+    ],
+    "subj_char_span_ends": [
+      77
+    ],
+    "entity_char_span_starts": [
+      73,
+      65
+    ],
+    "entity_char_span_ends": [
+      77,
+      70
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Akron"
+    ],
+    "raw_subjects": [
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Ohio",
+      "Akron"
+    ]
+  },
+  {
+    "text": "When Mr. Codey became acting governor in November , the couple stayed here rather than moving to Drumthwacket , the governor 's mansion in Princeton .",
+    "id": "train_45",
+    "obj_char_span_starts": [
+      97
+    ],
+    "obj_char_span_ends": [
+      109
+    ],
+    "subj_char_span_starts": [
+      139
+    ],
+    "subj_char_span_ends": [
+      148
+    ],
+    "entity_char_span_starts": [
+      139,
+      97
+    ],
+    "entity_char_span_ends": [
+      148,
+      109
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Drumthwacket"
+    ],
+    "raw_subjects": [
+      "Princeton"
+    ],
+    "raw_entities": [
+      "Princeton",
+      "Drumthwacket"
+    ]
+  },
+  {
+    "text": "This strike may be of historic importance , '' said Gary Chaison , a professor of industrial relations at Clark University in Worcester , Mass . '' Here members of a labor union are on strike to save their jobs , and the rest of the labor movement refuses to help it .",
+    "id": "train_46",
+    "obj_char_span_starts": [
+      126,
+      112,
+      112
+    ],
+    "obj_char_span_ends": [
+      135,
+      122,
+      122
+    ],
+    "subj_char_span_starts": [
+      57,
+      57,
+      126
+    ],
+    "subj_char_span_ends": [
+      64,
+      64,
+      135
+    ],
+    "entity_char_span_starts": [
+      57,
+      126,
+      57,
+      112,
+      126,
+      112
+    ],
+    "entity_char_span_ends": [
+      64,
+      135,
+      64,
+      122,
+      135,
+      122
+    ],
+    "predicates": [
+      "/people/person/place_lived",
+      "/business/person/company",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Worcester",
+      "University",
+      "University"
+    ],
+    "raw_subjects": [
+      "Chaison",
+      "Chaison",
+      "Worcester"
+    ],
+    "raw_entities": [
+      "Chaison",
+      "Worcester",
+      "Chaison",
+      "University",
+      "Worcester",
+      "University"
+    ]
+  },
+  {
+    "text": "Once back in Africa , he met with Liberian dissidents in Ghana and then made common cause with revolutionaries in Burkina Faso , Ivory Coast and , most critically , Libya , where Colonel Muammar al-Qaddafi was plotting and supporting a continent-wide revolution .",
+    "id": "train_47",
+    "obj_char_span_starts": [
+      165,
+      57,
+      122
+    ],
+    "obj_char_span_ends": [
+      170,
+      62,
+      126
+    ],
+    "subj_char_span_starts": [
+      13,
+      13,
+      13
+    ],
+    "subj_char_span_ends": [
+      19,
+      19,
+      19
+    ],
+    "entity_char_span_starts": [
+      13,
+      165,
+      13,
+      57,
+      13,
+      122
+    ],
+    "entity_char_span_ends": [
+      19,
+      170,
+      19,
+      62,
+      19,
+      126
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Libya",
+      "Ghana",
+      "Faso"
+    ],
+    "raw_subjects": [
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Libya",
+      "Africa",
+      "Ghana",
+      "Africa",
+      "Faso"
+    ]
+  },
+  {
+    "text": "According to local legend , recounted by the Africa scholar Stephen Ellis in his book '' The Mask of Anarchy , '' a baby born in Monrovia , Liberia 's capital , miraculously spoke English straight from the womb .",
+    "id": "train_48",
+    "obj_char_span_starts": [
+      129,
+      129,
+      140,
+      129
+    ],
+    "obj_char_span_ends": [
+      137,
+      137,
+      147,
+      137
+    ],
+    "subj_char_span_starts": [
+      140,
+      45,
+      45,
+      140
+    ],
+    "subj_char_span_ends": [
+      147,
+      51,
+      51,
+      147
+    ],
+    "entity_char_span_starts": [
+      140,
+      129,
+      45,
+      129,
+      45,
+      140,
+      140,
+      129
+    ],
+    "entity_char_span_ends": [
+      147,
+      137,
+      51,
+      137,
+      51,
+      147,
+      147,
+      137
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Monrovia",
+      "Monrovia",
+      "Liberia",
+      "Monrovia"
+    ],
+    "raw_subjects": [
+      "Liberia",
+      "Africa",
+      "Africa",
+      "Liberia"
+    ],
+    "raw_entities": [
+      "Liberia",
+      "Monrovia",
+      "Africa",
+      "Monrovia",
+      "Africa",
+      "Liberia",
+      "Liberia",
+      "Monrovia"
+    ]
+  },
+  {
+    "text": "Mr. Taylor was born outside Monrovia , his mother a housekeeper from the Gola tribe and his father a teacher descended from the returned slaves who founded Liberia .",
+    "id": "train_49",
+    "obj_char_span_starts": [
+      28,
+      28
+    ],
+    "obj_char_span_ends": [
+      36,
+      36
+    ],
+    "subj_char_span_starts": [
+      156,
+      156
+    ],
+    "subj_char_span_ends": [
+      163,
+      163
+    ],
+    "entity_char_span_starts": [
+      156,
+      28,
+      156,
+      28
+    ],
+    "entity_char_span_ends": [
+      163,
+      36,
+      163,
+      36
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Monrovia",
+      "Monrovia"
+    ],
+    "raw_subjects": [
+      "Liberia",
+      "Liberia"
+    ],
+    "raw_entities": [
+      "Liberia",
+      "Monrovia",
+      "Liberia",
+      "Monrovia"
+    ]
+  },
+  {
+    "text": "On Dec. 25 , in a driving rain , the news that Charles Taylor had attacked Liberia reached Monrovia .",
+    "id": "train_50",
+    "obj_char_span_starts": [
+      91,
+      91
+    ],
+    "obj_char_span_ends": [
+      99,
+      99
+    ],
+    "subj_char_span_starts": [
+      75,
+      75
+    ],
+    "subj_char_span_ends": [
+      82,
+      82
+    ],
+    "entity_char_span_starts": [
+      75,
+      91,
+      75,
+      91
+    ],
+    "entity_char_span_ends": [
+      82,
+      99,
+      82,
+      99
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/country/capital"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Monrovia",
+      "Monrovia"
+    ],
+    "raw_subjects": [
+      "Liberia",
+      "Liberia"
+    ],
+    "raw_entities": [
+      "Liberia",
+      "Monrovia",
+      "Liberia",
+      "Monrovia"
+    ]
+  },
+  {
+    "text": "President Bush 's plan to send National Guard troops to patrol the southern border of the United States has raised the concern of his longtime ally President Vicente Fox of Mexico , who called Mr. Bush on Sunday to express his worries .",
+    "id": "train_51",
+    "obj_char_span_starts": [
+      173
+    ],
+    "obj_char_span_ends": [
+      179
+    ],
+    "subj_char_span_starts": [
+      166
+    ],
+    "subj_char_span_ends": [
+      169
+    ],
+    "entity_char_span_starts": [
+      166,
+      173
+    ],
+    "entity_char_span_ends": [
+      169,
+      179
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Mexico"
+    ],
+    "raw_subjects": [
+      "Fox"
+    ],
+    "raw_entities": [
+      "Fox",
+      "Mexico"
+    ]
+  },
+  {
+    "text": "Senator Chuck Hagel , Republican of Nebraska , who helped draft the Senate immigration bill , said he was skeptical about whether the plan would work . ''",
+    "id": "train_52",
+    "obj_char_span_starts": [
+      36
+    ],
+    "obj_char_span_ends": [
+      44
+    ],
+    "subj_char_span_starts": [
+      14
+    ],
+    "subj_char_span_ends": [
+      19
+    ],
+    "entity_char_span_starts": [
+      14,
+      36
+    ],
+    "entity_char_span_ends": [
+      19,
+      44
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nebraska"
+    ],
+    "raw_subjects": [
+      "Hagel"
+    ],
+    "raw_entities": [
+      "Hagel",
+      "Nebraska"
+    ]
+  },
+  {
+    "text": "The deal was struck over the last day by telephone after months of talks that were largely led by Liberty 's chief , Gregory B. Maffei , and the News Corporation 's chief financial officer , David F. DeVoe .",
+    "id": "train_53",
+    "obj_char_span_starts": [
+      150
+    ],
+    "obj_char_span_ends": [
+      161
+    ],
+    "subj_char_span_starts": [
+      200
+    ],
+    "subj_char_span_ends": [
+      205
+    ],
+    "entity_char_span_starts": [
+      200,
+      150
+    ],
+    "entity_char_span_ends": [
+      205,
+      161
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Corporation"
+    ],
+    "raw_subjects": [
+      "DeVoe"
+    ],
+    "raw_entities": [
+      "DeVoe",
+      "Corporation"
+    ]
+  },
+  {
+    "text": "Rupert Murdoch and John C. Malone , who have wrangled for two years over Mr. Malone 's challenge to Mr. Murdoch 's control of the News Corporation , have made peace .",
+    "id": "train_54",
+    "obj_char_span_starts": [
+      135,
+      135,
+      7,
+      104
+    ],
+    "obj_char_span_ends": [
+      146,
+      146,
+      14,
+      111
+    ],
+    "subj_char_span_starts": [
+      7,
+      104,
+      135,
+      135
+    ],
+    "subj_char_span_ends": [
+      14,
+      111,
+      146,
+      146
+    ],
+    "entity_char_span_starts": [
+      7,
+      135,
+      104,
+      135,
+      135,
+      7,
+      135,
+      104
+    ],
+    "entity_char_span_ends": [
+      14,
+      146,
+      111,
+      146,
+      146,
+      14,
+      146,
+      111
+    ],
+    "predicates": [
+      "/business/person/company",
+      "/business/person/company",
+      "/business/company/founders",
+      "/business/company/founders"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Corporation",
+      "Corporation",
+      "Murdoch",
+      "Murdoch"
+    ],
+    "raw_subjects": [
+      "Murdoch",
+      "Murdoch",
+      "Corporation",
+      "Corporation"
+    ],
+    "raw_entities": [
+      "Murdoch",
+      "Corporation",
+      "Murdoch",
+      "Corporation",
+      "Corporation",
+      "Murdoch",
+      "Corporation",
+      "Murdoch"
+    ]
+  },
+  {
+    "text": "Google submitted testimony from Mark Lucovsky , a former high-ranking engineer at Microsoft , who said that when he told Microsoft 's chief executive , Steven A. Ballmer , of his own plans to join Google , Mr. Ballmer threw a chair across the room and threatened to '' kill '' Google .",
+    "id": "train_55",
+    "obj_char_span_starts": [
+      82,
+      121,
+      0,
+      197,
+      277
+    ],
+    "obj_char_span_ends": [
+      91,
+      130,
+      6,
+      203,
+      283
+    ],
+    "subj_char_span_starts": [
+      37,
+      37,
+      37,
+      37,
+      37
+    ],
+    "subj_char_span_ends": [
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "entity_char_span_starts": [
+      37,
+      82,
+      37,
+      121,
+      37,
+      0,
+      37,
+      197,
+      37,
+      277
+    ],
+    "entity_char_span_ends": [
+      45,
+      91,
+      45,
+      130,
+      45,
+      6,
+      45,
+      203,
+      45,
+      283
+    ],
+    "predicates": [
+      "/business/person/company",
+      "/business/person/company",
+      "/business/person/company",
+      "/business/person/company",
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Microsoft",
+      "Microsoft",
+      "Google",
+      "Google",
+      "Google"
+    ],
+    "raw_subjects": [
+      "Lucovsky",
+      "Lucovsky",
+      "Lucovsky",
+      "Lucovsky",
+      "Lucovsky"
+    ],
+    "raw_entities": [
+      "Lucovsky",
+      "Microsoft",
+      "Lucovsky",
+      "Microsoft",
+      "Lucovsky",
+      "Google",
+      "Lucovsky",
+      "Google",
+      "Lucovsky",
+      "Google"
+    ]
+  },
+  {
+    "text": "For Google , though , the victory claim was backed by one clear-cut result : the researcher , Kai-Fu Lee , will be at work there on Wednesday .",
+    "id": "train_56",
+    "obj_char_span_starts": [
+      4
+    ],
+    "obj_char_span_ends": [
+      10
+    ],
+    "subj_char_span_starts": [
+      101
+    ],
+    "subj_char_span_ends": [
+      104
+    ],
+    "entity_char_span_starts": [
+      101,
+      4
+    ],
+    "entity_char_span_ends": [
+      104,
+      10
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Google"
+    ],
+    "raw_subjects": [
+      "Lee"
+    ],
+    "raw_entities": [
+      "Lee",
+      "Google"
+    ]
+  },
+  {
+    "text": "It 's a wonderful appointment , '' said Kenneth Rogoff , a professor of economics at Harvard University who worked with Mr. Bernanke at Princeton . ''",
+    "id": "train_57",
+    "obj_char_span_starts": [
+      93
+    ],
+    "obj_char_span_ends": [
+      103
+    ],
+    "subj_char_span_starts": [
+      48
+    ],
+    "subj_char_span_ends": [
+      54
+    ],
+    "entity_char_span_starts": [
+      48,
+      93
+    ],
+    "entity_char_span_ends": [
+      54,
+      103
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "University"
+    ],
+    "raw_subjects": [
+      "Rogoff"
+    ],
+    "raw_entities": [
+      "Rogoff",
+      "University"
+    ]
+  },
+  {
+    "text": "The financing system that supports China 's economic growth is very fragile , '' said Sun Lijian , a professor at Fudan University in Shanghai . ''",
+    "id": "train_58",
+    "obj_char_span_starts": [
+      134,
+      134,
+      35,
+      120
+    ],
+    "obj_char_span_ends": [
+      142,
+      142,
+      40,
+      130
+    ],
+    "subj_char_span_starts": [
+      35,
+      35,
+      134,
+      134
+    ],
+    "subj_char_span_ends": [
+      40,
+      40,
+      142,
+      142
+    ],
+    "entity_char_span_starts": [
+      35,
+      134,
+      35,
+      134,
+      134,
+      35,
+      134,
+      120
+    ],
+    "entity_char_span_ends": [
+      40,
+      142,
+      40,
+      142,
+      142,
+      40,
+      142,
+      130
+    ],
+    "predicates": [
+      "/location/country/administrative_divisions",
+      "/location/location/contains",
+      "/location/administrative_division/country",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Shanghai",
+      "Shanghai",
+      "China",
+      "University"
+    ],
+    "raw_subjects": [
+      "China",
+      "China",
+      "Shanghai",
+      "Shanghai"
+    ],
+    "raw_entities": [
+      "China",
+      "Shanghai",
+      "China",
+      "Shanghai",
+      "Shanghai",
+      "China",
+      "Shanghai",
+      "University"
+    ]
+  },
+  {
+    "text": "Mr. Muti will become the music director , and the programming will focus on the musical riches and manuscript holdings of Mr. Muti 's hometown , Naples , and the ties between that city 's musical and cultural life in the 18th century and those of Vienna and Austria as a whole .",
+    "id": "train_59",
+    "obj_char_span_starts": [
+      247,
+      258,
+      247,
+      247
+    ],
+    "obj_char_span_ends": [
+      253,
+      265,
+      253,
+      253
+    ],
+    "subj_char_span_starts": [
+      258,
+      247,
+      258,
+      258
+    ],
+    "subj_char_span_ends": [
+      265,
+      253,
+      265,
+      265
+    ],
+    "entity_char_span_starts": [
+      258,
+      247,
+      247,
+      258,
+      258,
+      247,
+      258,
+      247
+    ],
+    "entity_char_span_ends": [
+      265,
+      253,
+      253,
+      265,
+      265,
+      253,
+      265,
+      253
+    ],
+    "predicates": [
+      "/location/country/administrative_divisions",
+      "/location/administrative_division/country",
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Vienna",
+      "Austria",
+      "Vienna",
+      "Vienna"
+    ],
+    "raw_subjects": [
+      "Austria",
+      "Vienna",
+      "Austria",
+      "Austria"
+    ],
+    "raw_entities": [
+      "Austria",
+      "Vienna",
+      "Vienna",
+      "Austria",
+      "Austria",
+      "Vienna",
+      "Austria",
+      "Vienna"
+    ]
+  },
+  {
+    "text": "After completing the current tour with the Vienna Philharmonic , which includes appearances elsewhere in the United States , as well as in Toronto and in Mexico City and Monterrey , Mexico , Mr. Muti will continue to establish a greater beachhead in the United States .",
+    "id": "train_60",
+    "obj_char_span_starts": [
+      161,
+      161,
+      154,
+      182,
+      161,
+      161,
+      170,
+      170,
+      161,
+      161
+    ],
+    "obj_char_span_ends": [
+      165,
+      165,
+      160,
+      188,
+      165,
+      165,
+      179,
+      179,
+      165,
+      165
+    ],
+    "subj_char_span_starts": [
+      154,
+      182,
+      161,
+      161,
+      154,
+      182,
+      154,
+      182,
+      154,
+      182
+    ],
+    "subj_char_span_ends": [
+      160,
+      188,
+      165,
+      165,
+      160,
+      188,
+      160,
+      188,
+      160,
+      188
+    ],
+    "entity_char_span_starts": [
+      154,
+      161,
+      182,
+      161,
+      161,
+      154,
+      161,
+      182,
+      154,
+      161,
+      182,
+      161,
+      154,
+      170,
+      182,
+      170,
+      154,
+      161,
+      182,
+      161
+    ],
+    "entity_char_span_ends": [
+      160,
+      165,
+      188,
+      165,
+      165,
+      160,
+      165,
+      188,
+      160,
+      165,
+      188,
+      165,
+      160,
+      179,
+      188,
+      179,
+      160,
+      165,
+      188,
+      165
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/administrative_division/country",
+      "/location/administrative_division/country",
+      "/location/country/capital",
+      "/location/country/capital",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/country/administrative_divisions",
+      "/location/country/administrative_divisions"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "City",
+      "City",
+      "Mexico",
+      "Mexico",
+      "City",
+      "City",
+      "Monterrey",
+      "Monterrey",
+      "City",
+      "City"
+    ],
+    "raw_subjects": [
+      "Mexico",
+      "Mexico",
+      "City",
+      "City",
+      "Mexico",
+      "Mexico",
+      "Mexico",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "raw_entities": [
+      "Mexico",
+      "City",
+      "Mexico",
+      "City",
+      "City",
+      "Mexico",
+      "City",
+      "Mexico",
+      "Mexico",
+      "City",
+      "Mexico",
+      "City",
+      "Mexico",
+      "Monterrey",
+      "Mexico",
+      "Monterrey",
+      "Mexico",
+      "City",
+      "Mexico",
+      "City"
+    ]
+  },
+  {
+    "text": "Mr. McGrath describes the production as a '' hallucinogenic world of projections from ancient Greek icons to Sigmund Freud 's Vienna to our own contemporary culture , '' since it incorporates film , video and lighting design .",
+    "id": "train_61",
+    "obj_char_span_starts": [
+      126
+    ],
+    "obj_char_span_ends": [
+      132
+    ],
+    "subj_char_span_starts": [
+      117
+    ],
+    "subj_char_span_ends": [
+      122
+    ],
+    "entity_char_span_starts": [
+      117,
+      126
+    ],
+    "entity_char_span_ends": [
+      122,
+      132
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Vienna"
+    ],
+    "raw_subjects": [
+      "Freud"
+    ],
+    "raw_entities": [
+      "Freud",
+      "Vienna"
+    ]
+  },
+  {
+    "text": "Lawrence Goldman , president and chief executive of the New Jersey Performing Arts Center in Newark pointed out that that northern New Jersey is a region crowded with small and mid-size arts centers , like the Community Theater in Morristown , the State Theater in New Brunswick and the Bergen Performing Arts Center in Englewood , but that these theaters mostly serve local audiences with fare that can often be found in New York .",
+    "id": "train_62",
+    "obj_char_span_starts": [
+      231,
+      231,
+      93,
+      93,
+      320,
+      320
+    ],
+    "obj_char_span_ends": [
+      241,
+      241,
+      99,
+      99,
+      329,
+      329
+    ],
+    "subj_char_span_starts": [
+      60,
+      135,
+      60,
+      135,
+      60,
+      135
+    ],
+    "subj_char_span_ends": [
+      66,
+      141,
+      66,
+      141,
+      66,
+      141
+    ],
+    "entity_char_span_starts": [
+      60,
+      231,
+      135,
+      231,
+      60,
+      93,
+      135,
+      93,
+      60,
+      320,
+      135,
+      320
+    ],
+    "entity_char_span_ends": [
+      66,
+      241,
+      141,
+      241,
+      66,
+      99,
+      141,
+      99,
+      66,
+      329,
+      141,
+      329
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Morristown",
+      "Morristown",
+      "Newark",
+      "Newark",
+      "Englewood",
+      "Englewood"
+    ],
+    "raw_subjects": [
+      "Jersey",
+      "Jersey",
+      "Jersey",
+      "Jersey",
+      "Jersey",
+      "Jersey"
+    ],
+    "raw_entities": [
+      "Jersey",
+      "Morristown",
+      "Jersey",
+      "Morristown",
+      "Jersey",
+      "Newark",
+      "Jersey",
+      "Newark",
+      "Jersey",
+      "Englewood",
+      "Jersey",
+      "Englewood"
+    ]
+  },
+  {
+    "text": "When I left Tucson , I traveled to Chicago , where I found fans in about the same mood as those watching the White Sox in Arizona .",
+    "id": "train_63",
+    "obj_char_span_starts": [
+      12
+    ],
+    "obj_char_span_ends": [
+      18
+    ],
+    "subj_char_span_starts": [
+      122
+    ],
+    "subj_char_span_ends": [
+      129
+    ],
+    "entity_char_span_starts": [
+      122,
+      12
+    ],
+    "entity_char_span_ends": [
+      129,
+      18
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Tucson"
+    ],
+    "raw_subjects": [
+      "Arizona"
+    ],
+    "raw_entities": [
+      "Arizona",
+      "Tucson"
+    ]
+  },
+  {
+    "text": "Beginning at the mouth of the Danube , the filmmakers David Barison and Daniel Ross journey upstream toward the river 's source in Germany .",
+    "id": "train_64",
+    "obj_char_span_starts": [
+      30
+    ],
+    "obj_char_span_ends": [
+      36
+    ],
+    "subj_char_span_starts": [
+      131
+    ],
+    "subj_char_span_ends": [
+      138
+    ],
+    "entity_char_span_starts": [
+      131,
+      30
+    ],
+    "entity_char_span_ends": [
+      138,
+      36
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Danube"
+    ],
+    "raw_subjects": [
+      "Germany"
+    ],
+    "raw_entities": [
+      "Germany",
+      "Danube"
+    ]
+  },
+  {
+    "text": "By the time Washington retreated to a more realistic position , it was too late to retrieve much of the bold original agenda , as set out in earlier United Nations summit meetings on development , in the thoughtful recommendations of several high-level panels and in the constructive proposals of Secretary General Kofi Annan .",
+    "id": "train_65",
+    "obj_char_span_starts": [
+      156
+    ],
+    "obj_char_span_ends": [
+      163
+    ],
+    "subj_char_span_starts": [
+      320
+    ],
+    "subj_char_span_ends": [
+      325
+    ],
+    "entity_char_span_starts": [
+      320,
+      156
+    ],
+    "entity_char_span_ends": [
+      325,
+      163
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nations"
+    ],
+    "raw_subjects": [
+      "Annan"
+    ],
+    "raw_entities": [
+      "Annan",
+      "Nations"
+    ]
+  },
+  {
+    "text": "This summer , shortly after Gov . George E. Pataki said he would not run for a fourth term , the state G.O.P . began courting William F. Weld , the colorful former governor of Massachusetts who is now a New York financier , for a gubernatorial run , an awkward move given the charges of carpetbagging that Republicans lofted at Clinton during the 2000 campaign .",
+    "id": "train_66",
+    "obj_char_span_starts": [
+      207
+    ],
+    "obj_char_span_ends": [
+      211
+    ],
+    "subj_char_span_starts": [
+      137
+    ],
+    "subj_char_span_ends": [
+      141
+    ],
+    "entity_char_span_starts": [
+      137,
+      207
+    ],
+    "entity_char_span_ends": [
+      141,
+      211
+    ],
+    "predicates": [
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "York"
+    ],
+    "raw_subjects": [
+      "Weld"
+    ],
+    "raw_entities": [
+      "Weld",
+      "York"
+    ]
+  },
+  {
+    "text": "More ominously , there are signs that the state 's political demographics have begun to tilt even more heavily against the G.O.P . The suburbs closer to New York -- think Chappaqua -- vote increasingly Democratic , in part because New York City 's renaissance has made it harder for Republicans to cast the Big Apple as a lawless bastion of tax-and-spend liberalism .",
+    "id": "train_67",
+    "obj_char_span_starts": [
+      171,
+      171,
+      240,
+      240
+    ],
+    "obj_char_span_ends": [
+      180,
+      180,
+      244,
+      244
+    ],
+    "subj_char_span_starts": [
+      157,
+      235,
+      157,
+      235
+    ],
+    "subj_char_span_ends": [
+      161,
+      239,
+      161,
+      239
+    ],
+    "entity_char_span_starts": [
+      157,
+      171,
+      235,
+      171,
+      157,
+      240,
+      235,
+      240
+    ],
+    "entity_char_span_ends": [
+      161,
+      180,
+      239,
+      180,
+      161,
+      244,
+      239,
+      244
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Chappaqua",
+      "Chappaqua",
+      "City",
+      "City"
+    ],
+    "raw_subjects": [
+      "York",
+      "York",
+      "York",
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "Chappaqua",
+      "York",
+      "Chappaqua",
+      "York",
+      "City",
+      "York",
+      "City"
+    ]
+  },
+  {
+    "text": "It 's possible he could still jump into the governor 's race , but the smart money is that if Lazio runs for office next year , it will be to replace Eliot Spitzer as New York 's attorney general .",
+    "id": "train_68",
+    "obj_char_span_starts": [
+      171
+    ],
+    "obj_char_span_ends": [
+      175
+    ],
+    "subj_char_span_starts": [
+      156
+    ],
+    "subj_char_span_ends": [
+      163
+    ],
+    "entity_char_span_starts": [
+      156,
+      171
+    ],
+    "entity_char_span_ends": [
+      163,
+      175
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "York"
+    ],
+    "raw_subjects": [
+      "Spitzer"
+    ],
+    "raw_entities": [
+      "Spitzer",
+      "York"
+    ]
+  },
+  {
+    "text": "South Africa , and the rest of Africa . ''",
+    "id": "train_69",
+    "obj_char_span_starts": [
+      6,
+      31,
+      6,
+      31
+    ],
+    "obj_char_span_ends": [
+      12,
+      37,
+      12,
+      37
+    ],
+    "subj_char_span_starts": [
+      6,
+      6,
+      31,
+      31
+    ],
+    "subj_char_span_ends": [
+      12,
+      12,
+      37,
+      37
+    ],
+    "entity_char_span_starts": [
+      6,
+      6,
+      6,
+      31,
+      31,
+      6,
+      31,
+      31
+    ],
+    "entity_char_span_ends": [
+      12,
+      12,
+      12,
+      37,
+      37,
+      12,
+      37,
+      37
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "raw_subjects": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa",
+      "Africa"
+    ]
+  },
+  {
+    "text": "He said it was just a coincidence that Connecticut was the home of State Representative Andrew M. Fleischmann , a West Hartford Democrat who sponsored a bill requiring real times in listings .",
+    "id": "train_70",
+    "obj_char_span_starts": [
+      119
+    ],
+    "obj_char_span_ends": [
+      127
+    ],
+    "subj_char_span_starts": [
+      39
+    ],
+    "subj_char_span_ends": [
+      50
+    ],
+    "entity_char_span_starts": [
+      39,
+      119
+    ],
+    "entity_char_span_ends": [
+      50,
+      127
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Hartford"
+    ],
+    "raw_subjects": [
+      "Connecticut"
+    ],
+    "raw_entities": [
+      "Connecticut",
+      "Hartford"
+    ]
+  },
+  {
+    "text": "Corner Kicks COLLEGES -- Dan Gaspar , the coach of goalkeepers the past two seasons at Porto in Portugal , has returned to the United States to be the men 's coach at the University of Hartford , his alma mater .",
+    "id": "train_71",
+    "obj_char_span_starts": [
+      87,
+      96,
+      87
+    ],
+    "obj_char_span_ends": [
+      92,
+      104,
+      92
+    ],
+    "subj_char_span_starts": [
+      96,
+      87,
+      96
+    ],
+    "subj_char_span_ends": [
+      104,
+      92,
+      104
+    ],
+    "entity_char_span_starts": [
+      96,
+      87,
+      87,
+      96,
+      96,
+      87
+    ],
+    "entity_char_span_ends": [
+      104,
+      92,
+      92,
+      104,
+      104,
+      92
+    ],
+    "predicates": [
+      "/location/country/administrative_divisions",
+      "/location/administrative_division/country",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Porto",
+      "Portugal",
+      "Porto"
+    ],
+    "raw_subjects": [
+      "Portugal",
+      "Porto",
+      "Portugal"
+    ],
+    "raw_entities": [
+      "Portugal",
+      "Porto",
+      "Porto",
+      "Portugal",
+      "Portugal",
+      "Porto"
+    ]
+  },
+  {
+    "text": "I have already said repeatedly that we have fewer problems against strong opponents like Brazil , Argentina , Italy or Germany than against the smaller teams , because against strong teams we concentrate better and pull out our best performances , '' United States Coach Sigi Schmid told FIFA.com .",
+    "id": "train_72",
+    "obj_char_span_starts": [
+      119
+    ],
+    "obj_char_span_ends": [
+      126
+    ],
+    "subj_char_span_starts": [
+      276
+    ],
+    "subj_char_span_ends": [
+      282
+    ],
+    "entity_char_span_starts": [
+      276,
+      119
+    ],
+    "entity_char_span_ends": [
+      282,
+      126
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Germany"
+    ],
+    "raw_subjects": [
+      "Schmid"
+    ],
+    "raw_entities": [
+      "Schmid",
+      "Germany"
+    ]
+  },
+  {
+    "text": "The United States defense has been anchored by goalkeeper Quentin Westberg , who plays for Troyes in France .",
+    "id": "train_73",
+    "obj_char_span_starts": [
+      101
+    ],
+    "obj_char_span_ends": [
+      107
+    ],
+    "subj_char_span_starts": [
+      66
+    ],
+    "subj_char_span_ends": [
+      74
+    ],
+    "entity_char_span_starts": [
+      66,
+      101
+    ],
+    "entity_char_span_ends": [
+      74,
+      107
+    ],
+    "predicates": [
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "France"
+    ],
+    "raw_subjects": [
+      "Westberg"
+    ],
+    "raw_entities": [
+      "Westberg",
+      "France"
+    ]
+  },
+  {
+    "text": "He is survived by his adoring wife Carmen Grau , Ph . D. , his daughters Ariana , 13 , and Mia , 10 , his brother Jon and sister-in-law Marnie , his sisters Melanie and Dany and their families , his parents Mark Silvan and Helaine Shlasko -LRB- widow of his stepfather Bernie Shlasko -RRB- , his stepmother Abby , his mother-in-law Felisa , his entire family in Barcelona , Spain , his many nieces and nephews , and numerous friends .",
+    "id": "train_74",
+    "obj_char_span_starts": [
+      362,
+      374
+    ],
+    "obj_char_span_ends": [
+      371,
+      379
+    ],
+    "subj_char_span_starts": [
+      374,
+      362
+    ],
+    "subj_char_span_ends": [
+      379,
+      371
+    ],
+    "entity_char_span_starts": [
+      374,
+      362,
+      362,
+      374
+    ],
+    "entity_char_span_ends": [
+      379,
+      371,
+      371,
+      379
+    ],
+    "predicates": [
+      "/location/country/administrative_divisions",
+      "/location/administrative_division/country"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Barcelona",
+      "Spain"
+    ],
+    "raw_subjects": [
+      "Spain",
+      "Barcelona"
+    ],
+    "raw_entities": [
+      "Spain",
+      "Barcelona",
+      "Barcelona",
+      "Spain"
+    ]
+  },
+  {
+    "text": "A lot of us are transplanted Canadians like me , '' said Karen Tait , 56 , a native of Edmonton , Alberta , who is president of the Coyotes Curling Club in Scottsdale .",
+    "id": "train_75",
+    "obj_char_span_starts": [
+      87,
+      87
+    ],
+    "obj_char_span_ends": [
+      95,
+      95
+    ],
+    "subj_char_span_starts": [
+      98,
+      98
+    ],
+    "subj_char_span_ends": [
+      105,
+      105
+    ],
+    "entity_char_span_starts": [
+      98,
+      87,
+      98,
+      87
+    ],
+    "entity_char_span_ends": [
+      105,
+      95,
+      105,
+      95
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Edmonton",
+      "Edmonton"
+    ],
+    "raw_subjects": [
+      "Alberta",
+      "Alberta"
+    ],
+    "raw_entities": [
+      "Alberta",
+      "Edmonton",
+      "Alberta",
+      "Edmonton"
+    ]
+  },
+  {
+    "text": "The outbreak is unrelated to the one that began spreading from Nigeria in 2004 through several countries in central Africa and the Arabian peninsula , and is unusual in that it is striking mostly adults , according to the World Health Organization .",
+    "id": "train_76",
+    "obj_char_span_starts": [
+      63
+    ],
+    "obj_char_span_ends": [
+      70
+    ],
+    "subj_char_span_starts": [
+      116
+    ],
+    "subj_char_span_ends": [
+      122
+    ],
+    "entity_char_span_starts": [
+      116,
+      63
+    ],
+    "entity_char_span_ends": [
+      122,
+      70
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Nigeria"
+    ],
+    "raw_subjects": [
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Nigeria"
+    ]
+  },
+  {
+    "text": "A fast-moving and deadly outbreak of polio has erupted in Namibia , in southern Africa .",
+    "id": "train_77",
+    "obj_char_span_starts": [
+      58
+    ],
+    "obj_char_span_ends": [
+      65
+    ],
+    "subj_char_span_starts": [
+      80
+    ],
+    "subj_char_span_ends": [
+      86
+    ],
+    "entity_char_span_starts": [
+      80,
+      58
+    ],
+    "entity_char_span_ends": [
+      86,
+      65
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Namibia"
+    ],
+    "raw_subjects": [
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Namibia"
+    ]
+  },
+  {
+    "text": "Namibia , a desert country of two million people on Africa 's southwest coast , has a singular combination of history and geography that makes it especially vulnerable to a polio outbreak among adults .",
+    "id": "train_78",
+    "obj_char_span_starts": [
+      0
+    ],
+    "obj_char_span_ends": [
+      7
+    ],
+    "subj_char_span_starts": [
+      52
+    ],
+    "subj_char_span_ends": [
+      58
+    ],
+    "entity_char_span_starts": [
+      52,
+      0
+    ],
+    "entity_char_span_ends": [
+      58,
+      7
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Namibia"
+    ],
+    "raw_subjects": [
+      "Africa"
+    ],
+    "raw_entities": [
+      "Africa",
+      "Namibia"
+    ]
+  },
+  {
+    "text": "Correction : October 19 , 2006 , Thursday An article on Tuesday about raids on the home of Representative Curt Weldon 's daughter , as part of a federal corruption investigation , misstated the year Mr. Weldon was first elected to Congress , in Pennsylvania 's Seventh District .",
+    "id": "train_79",
+    "obj_char_span_starts": [
+      245,
+      245
+    ],
+    "obj_char_span_ends": [
+      257,
+      257
+    ],
+    "subj_char_span_starts": [
+      111,
+      203
+    ],
+    "subj_char_span_ends": [
+      117,
+      209
+    ],
+    "entity_char_span_starts": [
+      111,
+      245,
+      203,
+      245
+    ],
+    "entity_char_span_ends": [
+      117,
+      257,
+      209,
+      257
+    ],
+    "predicates": [
+      "/people/person/place_lived",
+      "/people/person/place_lived"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Pennsylvania",
+      "Pennsylvania"
+    ],
+    "raw_subjects": [
+      "Weldon",
+      "Weldon"
+    ],
+    "raw_entities": [
+      "Weldon",
+      "Pennsylvania",
+      "Weldon",
+      "Pennsylvania"
+    ]
+  },
+  {
+    "text": "Prosecutors ' interest in Chubb may indicate that the insurance scandal is widening , even after more than a year of intense scrutiny by Eliot Spitzer , the New York attorney general , and officials at the Securities and Exchange Commission .",
+    "id": "train_80",
+    "obj_char_span_starts": [
+      161
+    ],
+    "obj_char_span_ends": [
+      165
+    ],
+    "subj_char_span_starts": [
+      143
+    ],
+    "subj_char_span_ends": [
+      150
+    ],
+    "entity_char_span_starts": [
+      143,
+      161
+    ],
+    "entity_char_span_ends": [
+      150,
+      165
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "York"
+    ],
+    "raw_subjects": [
+      "Spitzer"
+    ],
+    "raw_entities": [
+      "Spitzer",
+      "York"
+    ]
+  },
+  {
+    "text": "Odyl Leferink , a tour group leader from Haarlem , the Netherlands . ''",
+    "id": "train_81",
+    "obj_char_span_starts": [
+      41
+    ],
+    "obj_char_span_ends": [
+      48
+    ],
+    "subj_char_span_starts": [
+      55
+    ],
+    "subj_char_span_ends": [
+      66
+    ],
+    "entity_char_span_starts": [
+      55,
+      41
+    ],
+    "entity_char_span_ends": [
+      66,
+      48
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Haarlem"
+    ],
+    "raw_subjects": [
+      "Netherlands"
+    ],
+    "raw_entities": [
+      "Netherlands",
+      "Haarlem"
+    ]
+  },
+  {
+    "text": "The United States broke an impasse in the talks , which began in Doha , Qatar , in 2001 , with an offer last week to cut its farm subsidies by 60 percent and import duties on agricultural products by 55 to 90 percent .",
+    "id": "train_82",
+    "obj_char_span_starts": [
+      65,
+      65,
+      65,
+      72
+    ],
+    "obj_char_span_ends": [
+      69,
+      69,
+      69,
+      77
+    ],
+    "subj_char_span_starts": [
+      72,
+      72,
+      72,
+      65
+    ],
+    "subj_char_span_ends": [
+      77,
+      77,
+      77,
+      69
+    ],
+    "entity_char_span_starts": [
+      72,
+      65,
+      72,
+      65,
+      72,
+      65,
+      65,
+      72
+    ],
+    "entity_char_span_ends": [
+      77,
+      69,
+      77,
+      69,
+      77,
+      69,
+      69,
+      77
+    ],
+    "predicates": [
+      "/location/country/capital",
+      "/location/location/contains",
+      "/location/country/administrative_divisions",
+      "/location/administrative_division/country"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Doha",
+      "Doha",
+      "Doha",
+      "Qatar"
+    ],
+    "raw_subjects": [
+      "Qatar",
+      "Qatar",
+      "Qatar",
+      "Doha"
+    ],
+    "raw_entities": [
+      "Qatar",
+      "Doha",
+      "Qatar",
+      "Doha",
+      "Qatar",
+      "Doha",
+      "Doha",
+      "Qatar"
+    ]
+  },
+  {
+    "text": "France 's trade minister , Christine Lagarde , reiterated concerns Wednesday that Mr. Mandelson had overstepped his negotiating mandate by agreeing last week to expand cuts in Europe 's subsidies .",
+    "id": "train_83",
+    "obj_char_span_starts": [
+      0,
+      0
+    ],
+    "obj_char_span_ends": [
+      6,
+      6
+    ],
+    "subj_char_span_starts": [
+      176,
+      37
+    ],
+    "subj_char_span_ends": [
+      182,
+      44
+    ],
+    "entity_char_span_starts": [
+      176,
+      0,
+      37,
+      0
+    ],
+    "entity_char_span_ends": [
+      182,
+      6,
+      44,
+      6
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/people/person/nationality"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "France",
+      "France"
+    ],
+    "raw_subjects": [
+      "Europe",
+      "Lagarde"
+    ],
+    "raw_entities": [
+      "Europe",
+      "France",
+      "Lagarde",
+      "France"
+    ]
+  },
+  {
+    "text": "And '' The Bright Stream '' and '' Spartacus '' will also be danced at the Orange County Performing Arts Center in Costa Mesa , Calif. , Aug. 9-14 .",
+    "id": "train_84",
+    "obj_char_span_starts": [
+      105
+    ],
+    "obj_char_span_ends": [
+      111
+    ],
+    "subj_char_span_starts": [
+      121
+    ],
+    "subj_char_span_ends": [
+      125
+    ],
+    "entity_char_span_starts": [
+      121,
+      105
+    ],
+    "entity_char_span_ends": [
+      125,
+      111
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Center"
+    ],
+    "raw_subjects": [
+      "Mesa"
+    ],
+    "raw_entities": [
+      "Mesa",
+      "Center"
+    ]
+  },
+  {
+    "text": "Y Combinator comes down to two kids in a room with two computers and ramen noodles for a summer , '' said Chris Sacca , a principal of new business development at Google and a speaker at Y Combinator 's one-day start-up school conference in October at Harvard . ''",
+    "id": "train_85",
+    "obj_char_span_starts": [
+      163
+    ],
+    "obj_char_span_ends": [
+      169
+    ],
+    "subj_char_span_starts": [
+      112
+    ],
+    "subj_char_span_ends": [
+      117
+    ],
+    "entity_char_span_starts": [
+      112,
+      163
+    ],
+    "entity_char_span_ends": [
+      117,
+      169
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Google"
+    ],
+    "raw_subjects": [
+      "Sacca"
+    ],
+    "raw_entities": [
+      "Sacca",
+      "Google"
+    ]
+  },
+  {
+    "text": "Last month , Mr. Yuen was in Mountain View , in the heart of Silicon Valley , demonstrating his product to venture capitalists and other tech entrepreneurs .",
+    "id": "train_86",
+    "obj_char_span_starts": [
+      38
+    ],
+    "obj_char_span_ends": [
+      42
+    ],
+    "subj_char_span_starts": [
+      69
+    ],
+    "subj_char_span_ends": [
+      75
+    ],
+    "entity_char_span_starts": [
+      69,
+      38
+    ],
+    "entity_char_span_ends": [
+      75,
+      42
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "View"
+    ],
+    "raw_subjects": [
+      "Valley"
+    ],
+    "raw_entities": [
+      "Valley",
+      "View"
+    ]
+  },
+  {
+    "text": "The danger is that you will run out of money before a buyer shows up , '' said Peter Rip , a managing director of Leapfrog Ventures , a venture capital fund in Menlo Park , Calif. '' We are seeing a lot of guys being attracted to the ease with which they can start a company , but starting is really only the first step . ''",
+    "id": "train_87",
+    "obj_char_span_starts": [
+      123,
+      85
+    ],
+    "obj_char_span_ends": [
+      131,
+      88
+    ],
+    "subj_char_span_starts": [
+      85,
+      123
+    ],
+    "subj_char_span_ends": [
+      88,
+      131
+    ],
+    "entity_char_span_starts": [
+      85,
+      123,
+      123,
+      85
+    ],
+    "entity_char_span_ends": [
+      88,
+      131,
+      131,
+      88
+    ],
+    "predicates": [
+      "/business/person/company",
+      "/business/company/founders"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Ventures",
+      "Rip"
+    ],
+    "raw_subjects": [
+      "Rip",
+      "Ventures"
+    ],
+    "raw_entities": [
+      "Rip",
+      "Ventures",
+      "Ventures",
+      "Rip"
+    ]
+  },
+  {
+    "text": "Born in Canton , Ohio , on Feb. 27 , 1914 , Mr. Bolender settled in New York City in 1936 .",
+    "id": "train_88",
+    "obj_char_span_starts": [
+      8
+    ],
+    "obj_char_span_ends": [
+      14
+    ],
+    "subj_char_span_starts": [
+      17
+    ],
+    "subj_char_span_ends": [
+      21
+    ],
+    "entity_char_span_starts": [
+      17,
+      8
+    ],
+    "entity_char_span_ends": [
+      21,
+      14
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Canton"
+    ],
+    "raw_subjects": [
+      "Ohio"
+    ],
+    "raw_entities": [
+      "Ohio",
+      "Canton"
+    ]
+  },
+  {
+    "text": "Lincoln Kirstein and George Balanchine , founders of the New York City Ballet , recruited him for the American Ballet , the first company they had formed in 1935 .",
+    "id": "train_89",
+    "obj_char_span_starts": [
+      71,
+      111
+    ],
+    "obj_char_span_ends": [
+      77,
+      117
+    ],
+    "subj_char_span_starts": [
+      28,
+      28
+    ],
+    "subj_char_span_ends": [
+      38,
+      38
+    ],
+    "entity_char_span_starts": [
+      28,
+      71,
+      28,
+      111
+    ],
+    "entity_char_span_ends": [
+      38,
+      77,
+      38,
+      117
+    ],
+    "predicates": [
+      "/business/person/company",
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Ballet",
+      "Ballet"
+    ],
+    "raw_subjects": [
+      "Balanchine",
+      "Balanchine"
+    ],
+    "raw_entities": [
+      "Balanchine",
+      "Ballet",
+      "Balanchine",
+      "Ballet"
+    ]
+  },
+  {
+    "text": "Thanks to a late agreement by legislators in Albany , New York no longer ranks among the dwindling number of states that have failed to take full advantage of DNA 's ability to identify and remove serial sex offenders from the streets .",
+    "id": "train_90",
+    "obj_char_span_starts": [
+      45
+    ],
+    "obj_char_span_ends": [
+      51
+    ],
+    "subj_char_span_starts": [
+      58
+    ],
+    "subj_char_span_ends": [
+      62
+    ],
+    "entity_char_span_starts": [
+      58,
+      45
+    ],
+    "entity_char_span_ends": [
+      62,
+      51
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Albany"
+    ],
+    "raw_subjects": [
+      "York"
+    ],
+    "raw_entities": [
+      "York",
+      "Albany"
+    ]
+  },
+  {
+    "text": "Manhattan , especially the East Village , has long been well stocked with cheap and raucous yakitori places that specialize in skewers and beer .",
+    "id": "train_91",
+    "obj_char_span_starts": [
+      32,
+      0
+    ],
+    "obj_char_span_ends": [
+      39,
+      9
+    ],
+    "subj_char_span_starts": [
+      0,
+      32
+    ],
+    "subj_char_span_ends": [
+      9,
+      39
+    ],
+    "entity_char_span_starts": [
+      0,
+      32,
+      32,
+      0
+    ],
+    "entity_char_span_ends": [
+      9,
+      39,
+      39,
+      9
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/neighborhood/neighborhood_of"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Village",
+      "Manhattan"
+    ],
+    "raw_subjects": [
+      "Manhattan",
+      "Village"
+    ],
+    "raw_entities": [
+      "Manhattan",
+      "Village",
+      "Village",
+      "Manhattan"
+    ]
+  },
+  {
+    "text": "Watch Your Fingers HERE are some places to sample Japanese or Korean grilling : DAE DONG , 220-15 Northern Boulevard , Bayside , Queens ; ( 718 ) 631-7100 .",
+    "id": "train_92",
+    "obj_char_span_starts": [
+      119,
+      129
+    ],
+    "obj_char_span_ends": [
+      126,
+      135
+    ],
+    "subj_char_span_starts": [
+      129,
+      119
+    ],
+    "subj_char_span_ends": [
+      135,
+      126
+    ],
+    "entity_char_span_starts": [
+      129,
+      119,
+      119,
+      129
+    ],
+    "entity_char_span_ends": [
+      135,
+      126,
+      126,
+      135
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/neighborhood/neighborhood_of"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Bayside",
+      "Queens"
+    ],
+    "raw_subjects": [
+      "Queens",
+      "Bayside"
+    ],
+    "raw_entities": [
+      "Queens",
+      "Bayside",
+      "Bayside",
+      "Queens"
+    ]
+  },
+  {
+    "text": "Even barbecue palaces like Dae Dong in Bayside , Queens , and Picnic Garden in Flushing are often packed , especially after Korean church services on Sundays .",
+    "id": "train_93",
+    "obj_char_span_starts": [
+      49,
+      39
+    ],
+    "obj_char_span_ends": [
+      55,
+      46
+    ],
+    "subj_char_span_starts": [
+      39,
+      49
+    ],
+    "subj_char_span_ends": [
+      46,
+      55
+    ],
+    "entity_char_span_starts": [
+      39,
+      49,
+      49,
+      39
+    ],
+    "entity_char_span_ends": [
+      46,
+      55,
+      55,
+      46
+    ],
+    "predicates": [
+      "/location/neighborhood/neighborhood_of",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Queens",
+      "Bayside"
+    ],
+    "raw_subjects": [
+      "Bayside",
+      "Queens"
+    ],
+    "raw_entities": [
+      "Bayside",
+      "Queens",
+      "Queens",
+      "Bayside"
+    ]
+  },
+  {
+    "text": "The new face of New York City is taking shape among the graceful Victorian houses and stout apartment buildings of Ditmas Park , Brooklyn .",
+    "id": "train_94",
+    "obj_char_span_starts": [
+      129
+    ],
+    "obj_char_span_ends": [
+      137
+    ],
+    "subj_char_span_starts": [
+      25
+    ],
+    "subj_char_span_ends": [
+      29
+    ],
+    "entity_char_span_starts": [
+      25,
+      129
+    ],
+    "entity_char_span_ends": [
+      29,
+      137
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Brooklyn"
+    ],
+    "raw_subjects": [
+      "City"
+    ],
+    "raw_entities": [
+      "City",
+      "Brooklyn"
+    ]
+  },
+  {
+    "text": "In 2000 , they were found in neighborhoods like Elmhurst , Jackson Heights and Flushing in Queens .",
+    "id": "train_95",
+    "obj_char_span_starts": [
+      91,
+      67
+    ],
+    "obj_char_span_ends": [
+      97,
+      74
+    ],
+    "subj_char_span_starts": [
+      67,
+      91
+    ],
+    "subj_char_span_ends": [
+      74,
+      97
+    ],
+    "entity_char_span_starts": [
+      67,
+      91,
+      91,
+      67
+    ],
+    "entity_char_span_ends": [
+      74,
+      97,
+      97,
+      74
+    ],
+    "predicates": [
+      "/location/neighborhood/neighborhood_of",
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Queens",
+      "Heights"
+    ],
+    "raw_subjects": [
+      "Heights",
+      "Queens"
+    ],
+    "raw_entities": [
+      "Heights",
+      "Queens",
+      "Queens",
+      "Heights"
+    ]
+  },
+  {
+    "text": "The ants were studied by Dr. Stephen P. Yanoviak of the University of Texas Medical Branch in Galveston , who first noticed that the ants did not fall straight down when dislodged from a tree limb .",
+    "id": "train_96",
+    "obj_char_span_starts": [
+      84
+    ],
+    "obj_char_span_ends": [
+      90
+    ],
+    "subj_char_span_starts": [
+      94
+    ],
+    "subj_char_span_ends": [
+      103
+    ],
+    "entity_char_span_starts": [
+      94,
+      84
+    ],
+    "entity_char_span_ends": [
+      103,
+      90
+    ],
+    "predicates": [
+      "/location/location/contains"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Branch"
+    ],
+    "raw_subjects": [
+      "Galveston"
+    ],
+    "raw_entities": [
+      "Galveston",
+      "Branch"
+    ]
+  },
+  {
+    "text": "I do n't make this recipe in front of people , '' said Sean Williams , an actor from Astoria , Queens , whose guacamole includes bottled salsa , sour cream and green onions .",
+    "id": "train_97",
+    "obj_char_span_starts": [
+      85,
+      95
+    ],
+    "obj_char_span_ends": [
+      92,
+      101
+    ],
+    "subj_char_span_starts": [
+      95,
+      85
+    ],
+    "subj_char_span_ends": [
+      101,
+      92
+    ],
+    "entity_char_span_starts": [
+      95,
+      85,
+      85,
+      95
+    ],
+    "entity_char_span_ends": [
+      101,
+      92,
+      92,
+      101
+    ],
+    "predicates": [
+      "/location/location/contains",
+      "/location/neighborhood/neighborhood_of"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Astoria",
+      "Queens"
+    ],
+    "raw_subjects": [
+      "Queens",
+      "Astoria"
+    ],
+    "raw_entities": [
+      "Queens",
+      "Astoria",
+      "Astoria",
+      "Queens"
+    ]
+  },
+  {
+    "text": "INSIDE THE NEWS Correction : April 4 , 2005 , Monday An article in Sunday Business yesterday about a clash of cultures at Morgan Stanley referred imprecisely to the previous experience of Zoe Cruz , who was named a co-president of the firm .",
+    "id": "train_98",
+    "obj_char_span_starts": [
+      129
+    ],
+    "obj_char_span_ends": [
+      136
+    ],
+    "subj_char_span_starts": [
+      192
+    ],
+    "subj_char_span_ends": [
+      196
+    ],
+    "entity_char_span_starts": [
+      192,
+      129
+    ],
+    "entity_char_span_ends": [
+      196,
+      136
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Stanley"
+    ],
+    "raw_subjects": [
+      "Cruz"
+    ],
+    "raw_entities": [
+      "Cruz",
+      "Stanley"
+    ]
+  },
+  {
+    "text": "SOME Morgan Stanley romantics have tossed out the name of John J. Mack , the former president , who was pushed out by Mr. Purcell in a power struggle in 2001 .",
+    "id": "train_99",
+    "obj_char_span_starts": [
+      12
+    ],
+    "obj_char_span_ends": [
+      19
+    ],
+    "subj_char_span_starts": [
+      66
+    ],
+    "subj_char_span_ends": [
+      70
+    ],
+    "entity_char_span_starts": [
+      66,
+      12
+    ],
+    "entity_char_span_ends": [
+      70,
+      19
+    ],
+    "predicates": [
+      "/business/person/company"
+    ],
+    "classes": [
+      "DEFAULT",
+      "DEFAULT"
+    ],
+    "raw_objects": [
+      "Stanley"
+    ],
+    "raw_subjects": [
+      "Mack"
+    ],
+    "raw_entities": [
+      "Mack",
+      "Stanley"
+    ]
+  }
+]
